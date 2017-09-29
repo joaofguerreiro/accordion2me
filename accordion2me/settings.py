@@ -38,16 +38,24 @@ ALLOWED_HOSTS = ['http://accordion2.me']
 # Application definition
 
 INSTALLED_APPS = [
+    # 3RD PARTY
+    'modeltranslation',
+
+    # ADMIN INTERFACE
     'admin_interface',
     'flat_responsive',
     'colorfield',
 
+    # DJANGO
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+
+    # PROJECT SPECIFIC
+    'localization',
 ]
 
 # noinspection PyPackageRequirements
@@ -67,7 +75,7 @@ TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
         'DIRS': [],
-        # 'APP_DIRS': True,
+        'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
                 'django.template.context_processors.debug',
@@ -75,11 +83,6 @@ TEMPLATES = [
                 'django.contrib.auth.context_processors.auth',
                 'django.contrib.messages.context_processors.messages',
             ],
-            'loaders': [
-                'apptemplates.Loader',
-                'django.template.loaders.filesystem.Loader',
-                'django.template.loaders.app_directories.Loader',
-            ]
         },
     },
 ]
@@ -123,7 +126,7 @@ AUTH_PASSWORD_VALIDATORS = [
 # Internationalization
 # https://docs.djangoproject.com/en/1.10/topics/i18n/
 
-LANGUAGE_CODE = 'en'
+LANGUAGE_CODE = 'pt'
 
 LANGUAGES = (
     ('pt', gettext('Portuguese')),

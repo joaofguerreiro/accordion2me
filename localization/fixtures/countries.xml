@@ -1,0 +1,1467 @@
+<?xml version="1.0" encoding="utf-8"?>
+<django-objects version="1.0">
+    <object pk="AF" model="localization.country">
+        <field type="CharField" name="name">Afghanistan</field>
+        <field type="CharField" name="alpha3">AFG</field>
+        <field type="PositiveSmallIntegerField" name="num_code">4</field>
+        <field type="CharField" name="phone">0</field>
+    </object>
+    <object pk="AX" model="localization.country">
+        <field type="CharField" name="name">Åland Islands</field>
+        <field type="CharField" name="alpha3">ALA</field>
+        <field type="PositiveSmallIntegerField" name="num_code">248</field>
+		<field type="CharField" name="phone">0</field>
+    </object>
+    <object pk="AL" model="localization.country">
+        <field type="CharField" name="name">Albania</field>
+        <field type="CharField" name="alpha3">ALB</field>
+        <field type="PositiveSmallIntegerField" name="num_code">8</field>
+		<field type="CharField" name="phone">355</field>
+    </object>
+    <object pk="DZ" model="localization.country">
+        <field type="CharField" name="name">Algeria</field>
+        <field type="CharField" name="alpha3">DZA</field>
+        <field type="PositiveSmallIntegerField" name="num_code">12</field>
+		<field type="CharField" name="phone">213</field>
+    </object>
+    <object pk="AS" model="localization.country">
+        <field type="CharField" name="name">American Samoa</field>
+        <field type="CharField" name="alpha3">ASM</field>
+        <field type="PositiveSmallIntegerField" name="num_code">16</field>
+		<field type="CharField" name="phone">1</field>
+    </object>
+    <object pk="AD" model="localization.country">
+        <field type="CharField" name="name">Andorra</field>
+        <field type="CharField" name="alpha3">AND</field>
+        <field type="PositiveSmallIntegerField" name="num_code">20</field>
+		<field type="CharField" name="phone">376</field>
+    </object>
+    <object pk="AO" model="localization.country">
+        <field type="CharField" name="name">Angola</field>
+        <field type="CharField" name="alpha3">AGO</field>
+        <field type="PositiveSmallIntegerField" name="num_code">24</field>
+		<field type="CharField" name="phone">244</field>
+    </object>
+    <object pk="AI" model="localization.country">
+        <field type="CharField" name="name">Anguilla</field>
+        <field type="CharField" name="alpha3">AIA</field>
+        <field type="PositiveSmallIntegerField" name="num_code">660</field>
+		<field type="CharField" name="phone">1</field>
+    </object>
+    <object pk="AQ" model="localization.country">
+        <field type="CharField" name="name">Antarctica</field>
+        <field type="CharField" name="alpha3">ATA</field>
+        <field type="PositiveSmallIntegerField" name="num_code">10</field>
+		<field type="CharField" name="phone">672</field>
+    </object>
+    <object pk="AG" model="localization.country">
+        <field type="CharField" name="name">Antigua and Barbuda</field>
+        <field type="CharField" name="alpha3">ATG</field>
+        <field type="PositiveSmallIntegerField" name="num_code">28</field>
+		<field type="CharField" name="phone">1</field>
+    </object>
+    <object pk="AR" model="localization.country">
+        <field type="CharField" name="name">Argentina</field>
+        <field type="CharField" name="alpha3">ARG</field>
+        <field type="PositiveSmallIntegerField" name="num_code">32</field>
+		<field type="CharField" name="phone">54</field>
+    </object>
+    <object pk="AM" model="localization.country">
+        <field type="CharField" name="name">Armenia</field>
+        <field type="CharField" name="alpha3">ARM</field>
+        <field type="PositiveSmallIntegerField" name="num_code">51</field>
+		<field type="CharField" name="phone">374</field>
+    </object>
+    <object pk="AW" model="localization.country">
+        <field type="CharField" name="name">Aruba</field>
+        <field type="CharField" name="alpha3">ABW</field>
+        <field type="PositiveSmallIntegerField" name="num_code">533</field>
+		<field type="CharField" name="phone">297</field>
+    </object>
+    <object pk="AU" model="localization.country">
+        <field type="CharField" name="name">Australia</field>
+        <field type="CharField" name="alpha3">AUS</field>
+        <field type="PositiveSmallIntegerField" name="num_code">36</field>
+		<field type="CharField" name="phone">61</field>
+    </object>
+    <object pk="AT" model="localization.country">
+        <field type="CharField" name="name">Austria</field>
+        <field type="CharField" name="alpha3">AUT</field>
+        <field type="PositiveSmallIntegerField" name="num_code">40</field>
+		<field type="CharField" name="phone">43</field>
+    </object>
+    <object pk="AZ" model="localization.country">
+        <field type="CharField" name="name">Azerbaijan</field>
+        <field type="CharField" name="alpha3">AZE</field>
+        <field type="PositiveSmallIntegerField" name="num_code">31</field>
+		<field type="CharField" name="phone">994</field>
+    </object>
+    <object pk="BS" model="localization.country">
+        <field type="CharField" name="name">Bahamas</field>
+        <field type="CharField" name="alpha3">BHS</field>
+        <field type="PositiveSmallIntegerField" name="num_code">44</field>
+		<field type="CharField" name="phone">1</field>
+    </object>
+    <object pk="BH" model="localization.country">
+        <field type="CharField" name="name">Bahrain</field>
+        <field type="CharField" name="alpha3">BHR</field>
+        <field type="PositiveSmallIntegerField" name="num_code">48</field>
+		<field type="CharField" name="phone">973</field>
+    </object>
+    <object pk="BD" model="localization.country">
+        <field type="CharField" name="name">Bangladesh</field>
+        <field type="CharField" name="alpha3">BGD</field>
+        <field type="PositiveSmallIntegerField" name="num_code">50</field>
+		<field type="CharField" name="phone">880</field>
+    </object>
+    <object pk="BB" model="localization.country">
+        <field type="CharField" name="name">Barbados</field>
+        <field type="CharField" name="alpha3">BRB</field>
+        <field type="PositiveSmallIntegerField" name="num_code">52</field>
+		<field type="CharField" name="phone">1</field>
+    </object>
+    <object pk="BY" model="localization.country">
+        <field type="CharField" name="name">Belarus</field>
+        <field type="CharField" name="alpha3">BLR</field>
+        <field type="PositiveSmallIntegerField" name="num_code">112</field>
+		<field type="CharField" name="phone">375</field>
+    </object>
+    <object pk="BE" model="localization.country">
+        <field type="CharField" name="name">Belgium</field>
+        <field type="CharField" name="alpha3">BEL</field>
+        <field type="PositiveSmallIntegerField" name="num_code">56</field>
+		<field type="CharField" name="phone">32</field>
+    </object>
+    <object pk="BZ" model="localization.country">
+        <field type="CharField" name="name">Belize</field>
+        <field type="CharField" name="alpha3">BLZ</field>
+        <field type="PositiveSmallIntegerField" name="num_code">84</field>
+		<field type="CharField" name="phone">501</field>
+    </object>
+    <object pk="BJ" model="localization.country">
+        <field type="CharField" name="name">Benin</field>
+        <field type="CharField" name="alpha3">BEN</field>
+        <field type="PositiveSmallIntegerField" name="num_code">204</field>
+		<field type="CharField" name="phone">229</field>
+    </object>
+    <object pk="BM" model="localization.country">
+        <field type="CharField" name="name">Bermuda</field>
+        <field type="CharField" name="alpha3">BMU</field>
+        <field type="PositiveSmallIntegerField" name="num_code">60</field>
+		<field type="CharField" name="phone">1</field>
+    </object>
+    <object pk="BT" model="localization.country">
+        <field type="CharField" name="name">Bhutan</field>
+        <field type="CharField" name="alpha3">BTN</field>
+        <field type="PositiveSmallIntegerField" name="num_code">64</field>
+		<field type="CharField" name="phone">975</field>
+    </object>
+    <object pk="BO" model="localization.country">
+        <field type="CharField" name="name">Bolivia</field>
+        <field type="CharField" name="alpha3">BOL</field>
+        <field type="PositiveSmallIntegerField" name="num_code">68</field>
+		<field type="CharField" name="phone">591</field>
+    </object>
+    <object pk="BA" model="localization.country">
+        <field type="CharField" name="name">Bosnia and Herzegovina</field>
+        <field type="CharField" name="alpha3">BIH</field>
+        <field type="PositiveSmallIntegerField" name="num_code">70</field>
+		<field type="CharField" name="phone">387</field>
+    </object>
+    <object pk="BW" model="localization.country">
+        <field type="CharField" name="name">Botswana</field>
+        <field type="CharField" name="alpha3">BWA</field>
+        <field type="PositiveSmallIntegerField" name="num_code">72</field>
+		<field type="CharField" name="phone">267</field>
+    </object>
+    <object pk="BV" model="localization.country">
+        <field type="CharField" name="name">Bouvet Island</field>
+        <field type="CharField" name="alpha3">BVT</field>
+        <field type="PositiveSmallIntegerField" name="num_code">74</field>
+		<field type="CharField" name="phone">0</field>
+    </object>
+    <object pk="BR" model="localization.country">
+        <field type="CharField" name="name">Brazil</field>
+        <field type="CharField" name="alpha3">BRA</field>
+        <field type="PositiveSmallIntegerField" name="num_code">76</field>
+		<field type="CharField" name="phone">55</field>
+    </object>
+    <object pk="IO" model="localization.country">
+        <field type="CharField" name="name">British Indian Ocean Territory</field>
+        <field type="CharField" name="alpha3">IOT</field>
+        <field type="PositiveSmallIntegerField" name="num_code">86</field>
+		<field type="CharField" name="phone">246</field>
+    </object>
+    <object pk="BN" model="localization.country">
+        <field type="CharField" name="name">Brunei Darussalam</field>
+        <field type="CharField" name="alpha3">BRN</field>
+        <field type="PositiveSmallIntegerField" name="num_code">96</field>
+		<field type="CharField" name="phone">673</field>
+    </object>
+    <object pk="BG" model="localization.country">
+        <field type="CharField" name="name">Bulgaria</field>
+        <field type="CharField" name="alpha3">BGR</field>
+        <field type="PositiveSmallIntegerField" name="num_code">100</field>
+		<field type="CharField" name="phone">359</field>
+    </object>
+    <object pk="BF" model="localization.country">
+        <field type="CharField" name="name">Burkina Faso</field>
+        <field type="CharField" name="alpha3">BFA</field>
+        <field type="PositiveSmallIntegerField" name="num_code">854</field>
+		<field type="CharField" name="phone">226</field>
+    </object>
+    <object pk="BI" model="localization.country">
+        <field type="CharField" name="name">Burundi</field>
+        <field type="CharField" name="alpha3">BDI</field>
+        <field type="PositiveSmallIntegerField" name="num_code">108</field>
+		<field type="CharField" name="phone">257</field>
+    </object>
+    <object pk="KH" model="localization.country">
+        <field type="CharField" name="name">Cambodia</field>
+        <field type="CharField" name="alpha3">KHM</field>
+        <field type="PositiveSmallIntegerField" name="num_code">116</field>
+		<field type="CharField" name="phone">855</field>
+    </object>
+    <object pk="CM" model="localization.country">
+        <field type="CharField" name="name">Cameroon</field>
+        <field type="CharField" name="alpha3">CMR</field>
+        <field type="PositiveSmallIntegerField" name="num_code">120</field>
+		<field type="CharField" name="phone">327</field>
+    </object>
+    <object pk="CA" model="localization.country">
+        <field type="CharField" name="name">Canada</field>
+        <field type="CharField" name="alpha3">CAN</field>
+        <field type="PositiveSmallIntegerField" name="num_code">124</field>
+		<field type="CharField" name="phone">1</field>
+    </object>
+    <object pk="CV" model="localization.country">
+        <field type="CharField" name="name">Cape Verde</field>
+        <field type="CharField" name="alpha3">CPV</field>
+        <field type="PositiveSmallIntegerField" name="num_code">132</field>
+		<field type="CharField" name="phone">238</field>
+    </object>
+    <object pk="KY" model="localization.country">
+        <field type="CharField" name="name">Cayman Islands</field>
+        <field type="CharField" name="alpha3">CYM</field>
+        <field type="PositiveSmallIntegerField" name="num_code">136</field>
+		<field type="CharField" name="phone">1</field>
+    </object>
+    <object pk="CF" model="localization.country">
+        <field type="CharField" name="name">Central African Republic</field>
+        <field type="CharField" name="alpha3">CAF</field>
+        <field type="PositiveSmallIntegerField" name="num_code">140</field>
+		<field type="CharField" name="phone">236</field>
+    </object>
+    <object pk="TD" model="localization.country">
+        <field type="CharField" name="name">Chad</field>
+        <field type="CharField" name="alpha3">TCD</field>
+        <field type="PositiveSmallIntegerField" name="num_code">148</field>
+		<field type="CharField" name="phone">235</field>
+    </object>
+    <object pk="CL" model="localization.country">
+        <field type="CharField" name="name">Chile</field>
+        <field type="CharField" name="alpha3">CHL</field>
+        <field type="PositiveSmallIntegerField" name="num_code">152</field>
+		<field type="CharField" name="phone">56</field>
+    </object>
+    <object pk="CN" model="localization.country">
+        <field type="CharField" name="name">China</field>
+        <field type="CharField" name="alpha3">CHN</field>
+        <field type="PositiveSmallIntegerField" name="num_code">156</field>
+		<field type="CharField" name="phone">86</field>
+    </object>
+    <object pk="CX" model="localization.country">
+        <field type="CharField" name="name">Christmas Island</field>
+        <field type="CharField" name="alpha3">CXR</field>
+        <field type="PositiveSmallIntegerField" name="num_code">162</field>
+		<field type="CharField" name="phone">61</field>
+    </object>
+    <object pk="CC" model="localization.country">
+        <field type="CharField" name="name">Cocos (Keeling) Islands</field>
+        <field type="CharField" name="alpha3">CCK</field>
+        <field type="PositiveSmallIntegerField" name="num_code">166</field>
+		<field type="CharField" name="phone">61</field>
+    </object>
+    <object pk="CO" model="localization.country">
+        <field type="CharField" name="name">Colombia</field>
+        <field type="CharField" name="alpha3">COL</field>
+        <field type="PositiveSmallIntegerField" name="num_code">170</field>
+		<field type="CharField" name="phone">57</field>
+    </object>
+    <object pk="KM" model="localization.country">
+        <field type="CharField" name="name">Comoros</field>
+        <field type="CharField" name="alpha3">COM</field>
+        <field type="PositiveSmallIntegerField" name="num_code">174</field>
+		<field type="CharField" name="phone">269</field>
+    </object>
+    <object pk="CG" model="localization.country">
+        <field type="CharField" name="name">Congo</field>
+        <field type="CharField" name="alpha3">COG</field>
+        <field type="PositiveSmallIntegerField" name="num_code">178</field>
+		<field type="CharField" name="phone">242</field>
+    </object>
+    <object pk="CD" model="localization.country">
+        <field type="CharField" name="name">Democratic Republic of the Congo</field>
+        <field type="CharField" name="alpha3">COD</field>
+        <field type="PositiveSmallIntegerField" name="num_code">180</field>
+		<field type="CharField" name="phone">243</field>
+    </object>
+    <object pk="CK" model="localization.country">
+        <field type="CharField" name="name">Cook Islands</field>
+        <field type="CharField" name="alpha3">COK</field>
+        <field type="PositiveSmallIntegerField" name="num_code">184</field>
+		<field type="CharField" name="phone">682</field>
+    </object>
+    <object pk="CR" model="localization.country">
+        <field type="CharField" name="name">Costa Rica</field>
+        <field type="CharField" name="alpha3">CRI</field>
+        <field type="PositiveSmallIntegerField" name="num_code">188</field>
+		<field type="CharField" name="phone">506</field>
+    </object>
+    <object pk="CI" model="localization.country">
+        <field type="CharField" name="name">Côte d'Ivoire</field>
+        <field type="CharField" name="alpha3">CIV</field>
+        <field type="PositiveSmallIntegerField" name="num_code">384</field>
+		<field type="CharField" name="phone">225</field>
+    </object>
+    <object pk="HR" model="localization.country">
+        <field type="CharField" name="name">Croatia</field>
+        <field type="CharField" name="alpha3">HRV</field>
+        <field type="PositiveSmallIntegerField" name="num_code">191</field>
+		<field type="CharField" name="phone">385</field>
+    </object>
+    <object pk="CU" model="localization.country">
+        <field type="CharField" name="name">Cuba</field>
+        <field type="CharField" name="alpha3">CUB</field>
+        <field type="PositiveSmallIntegerField" name="num_code">192</field>
+		<field type="CharField" name="phone">53</field>
+    </object>
+    <object pk="CY" model="localization.country">
+        <field type="CharField" name="name">Cyprus</field>
+        <field type="CharField" name="alpha3">CYP</field>
+        <field type="PositiveSmallIntegerField" name="num_code">196</field>
+		<field type="CharField" name="phone">357</field>
+    </object>
+    <object pk="CZ" model="localization.country">
+        <field type="CharField" name="name">Czech Republic</field>
+        <field type="CharField" name="alpha3">CZE</field>
+        <field type="PositiveSmallIntegerField" name="num_code">203</field>
+		<field type="CharField" name="phone">420</field>
+    </object>
+    <object pk="DK" model="localization.country">
+        <field type="CharField" name="name">Denmark</field>
+        <field type="CharField" name="alpha3">DNK</field>
+        <field type="PositiveSmallIntegerField" name="num_code">208</field>
+		<field type="CharField" name="phone">45</field>
+    </object>
+    <object pk="DJ" model="localization.country">
+        <field type="CharField" name="name">Djibouti</field>
+        <field type="CharField" name="alpha3">DJI</field>
+        <field type="PositiveSmallIntegerField" name="num_code">262</field>
+		<field type="CharField" name="phone">253</field>
+    </object>
+    <object pk="DM" model="localization.country">
+        <field type="CharField" name="name">Dominica</field>
+        <field type="CharField" name="alpha3">DMA</field>
+        <field type="PositiveSmallIntegerField" name="num_code">212</field>
+		<field type="CharField" name="phone">1</field>
+    </object>
+    <object pk="DO" model="localization.country">
+        <field type="CharField" name="name">Dominican Republic</field>
+        <field type="CharField" name="alpha3">DOM</field>
+        <field type="PositiveSmallIntegerField" name="num_code">214</field>
+		<field type="CharField" name="phone">1</field>
+    </object>
+    <object pk="EC" model="localization.country">
+        <field type="CharField" name="name">Ecuador</field>
+        <field type="CharField" name="alpha3">ECU</field>
+        <field type="PositiveSmallIntegerField" name="num_code">218</field>
+		<field type="CharField" name="phone">593</field>
+    </object>
+    <object pk="EG" model="localization.country">
+        <field type="CharField" name="name">Egypt</field>
+        <field type="CharField" name="alpha3">EGY</field>
+        <field type="PositiveSmallIntegerField" name="num_code">818</field>
+		<field type="CharField" name="phone">20</field>
+    </object>
+    <object pk="SV" model="localization.country">
+        <field type="CharField" name="name">El Salvador</field>
+        <field type="CharField" name="alpha3">SLV</field>
+        <field type="PositiveSmallIntegerField" name="num_code">222</field>
+		<field type="CharField" name="phone">503</field>
+    </object>
+    <object pk="GQ" model="localization.country">
+        <field type="CharField" name="name">Equatorial Guinea</field>
+        <field type="CharField" name="alpha3">GNQ</field>
+        <field type="PositiveSmallIntegerField" name="num_code">226</field>
+		<field type="CharField" name="phone">240</field>
+    </object>
+    <object pk="ER" model="localization.country">
+        <field type="CharField" name="name">Eritrea</field>
+        <field type="CharField" name="alpha3">ERI</field>
+        <field type="PositiveSmallIntegerField" name="num_code">232</field>
+		<field type="CharField" name="phone">291</field>
+    </object>
+    <object pk="EE" model="localization.country">
+        <field type="CharField" name="name">Estonia</field>
+        <field type="CharField" name="alpha3">EST</field>
+        <field type="PositiveSmallIntegerField" name="num_code">233</field>
+		<field type="CharField" name="phone">372</field>
+    </object>
+    <object pk="ET" model="localization.country">
+        <field type="CharField" name="name">Ethiopia</field>
+        <field type="CharField" name="alpha3">ETH</field>
+        <field type="PositiveSmallIntegerField" name="num_code">231</field>
+		<field type="CharField" name="phone">251</field>
+    </object>
+    <object pk="FK" model="localization.country">
+        <field type="CharField" name="name">Falkland Islands (Malvinas)</field>
+        <field type="CharField" name="alpha3">FLK</field>
+        <field type="PositiveSmallIntegerField" name="num_code">238</field>
+		<field type="CharField" name="phone">500</field>
+    </object>
+    <object pk="FO" model="localization.country">
+        <field type="CharField" name="name">Faeroe Islands</field>
+        <field type="CharField" name="alpha3">FRO</field>
+        <field type="PositiveSmallIntegerField" name="num_code">234</field>
+		<field type="CharField" name="phone">298</field>
+    </object>
+    <object pk="FJ" model="localization.country">
+        <field type="CharField" name="name">Fiji</field>
+        <field type="CharField" name="alpha3">FJI</field>
+        <field type="PositiveSmallIntegerField" name="num_code">242</field>
+		<field type="CharField" name="phone">679</field>
+    </object>
+    <object pk="FI" model="localization.country">
+        <field type="CharField" name="name">Finland</field>
+        <field type="CharField" name="alpha3">FIN</field>
+        <field type="PositiveSmallIntegerField" name="num_code">246</field>
+		<field type="CharField" name="phone">358</field>
+    </object>
+    <object pk="FR" model="localization.country">
+        <field type="CharField" name="name">France</field>
+        <field type="CharField" name="alpha3">FRA</field>
+        <field type="PositiveSmallIntegerField" name="num_code">250</field>
+		<field type="CharField" name="phone">33</field>
+    </object>
+    <object pk="GF" model="localization.country">
+        <field type="CharField" name="name">French Guiana</field>
+        <field type="CharField" name="alpha3">GUF</field>
+        <field type="PositiveSmallIntegerField" name="num_code">254</field>
+		<field type="CharField" name="phone">594</field>
+    </object>
+    <object pk="PF" model="localization.country">
+        <field type="CharField" name="name">French Polynesia</field>
+        <field type="CharField" name="alpha3">PYF</field>
+        <field type="PositiveSmallIntegerField" name="num_code">258</field>
+		<field type="CharField" name="phone">689</field>
+    </object>
+    <object pk="TF" model="localization.country">
+        <field type="CharField" name="name">French Southern Territories</field>
+        <field type="CharField" name="alpha3">ATF</field>
+        <field type="PositiveSmallIntegerField" name="num_code">260</field>
+		<field type="CharField" name="phone">0</field>
+    </object>
+    <object pk="GA" model="localization.country">
+        <field type="CharField" name="name">Gabon</field>
+        <field type="CharField" name="alpha3">GAB</field>
+        <field type="PositiveSmallIntegerField" name="num_code">266</field>
+		<field type="CharField" name="phone">241</field>
+    </object>
+    <object pk="GM" model="localization.country">
+        <field type="CharField" name="name">Gambia</field>
+        <field type="CharField" name="alpha3">GMB</field>
+        <field type="PositiveSmallIntegerField" name="num_code">270</field>
+		<field type="CharField" name="phone">220</field>
+    </object>
+    <object pk="GE" model="localization.country">
+        <field type="CharField" name="name">Georgia</field>
+        <field type="CharField" name="alpha3">GEO</field>
+        <field type="PositiveSmallIntegerField" name="num_code">268</field>
+		<field type="CharField" name="phone">995</field>
+    </object>
+    <object pk="DE" model="localization.country">
+        <field type="CharField" name="name">Germany</field>
+        <field type="CharField" name="alpha3">DEU</field>
+        <field type="PositiveSmallIntegerField" name="num_code">276</field>
+		<field type="CharField" name="phone">49</field>
+    </object>
+    <object pk="GH" model="localization.country">
+        <field type="CharField" name="name">Ghana</field>
+        <field type="CharField" name="alpha3">GHA</field>
+        <field type="PositiveSmallIntegerField" name="num_code">288</field>
+		<field type="CharField" name="phone">233</field>
+    </object>
+    <object pk="GI" model="localization.country">
+        <field type="CharField" name="name">Gibraltar</field>
+        <field type="CharField" name="alpha3">GIB</field>
+        <field type="PositiveSmallIntegerField" name="num_code">292</field>
+		<field type="CharField" name="phone">350</field>
+    </object>
+    <object pk="GR" model="localization.country">
+        <field type="CharField" name="name">Greece</field>
+        <field type="CharField" name="alpha3">GRC</field>
+        <field type="PositiveSmallIntegerField" name="num_code">300</field>
+		<field type="CharField" name="phone">30</field>
+    </object>
+    <object pk="GL" model="localization.country">
+        <field type="CharField" name="name">Greenland</field>
+        <field type="CharField" name="alpha3">GRL</field>
+        <field type="PositiveSmallIntegerField" name="num_code">304</field>
+		<field type="CharField" name="phone">299</field>
+    </object>
+    <object pk="GD" model="localization.country">
+        <field type="CharField" name="name">Grenada</field>
+        <field type="CharField" name="alpha3">GRD</field>
+        <field type="PositiveSmallIntegerField" name="num_code">308</field>
+		<field type="CharField" name="phone">1</field>
+    </object>
+    <object pk="GP" model="localization.country">
+        <field type="CharField" name="name">Guadeloupe</field>
+        <field type="CharField" name="alpha3">GLP</field>
+        <field type="PositiveSmallIntegerField" name="num_code">312</field>
+		<field type="CharField" name="phone">590</field>
+    </object>
+    <object pk="GU" model="localization.country">
+        <field type="CharField" name="name">Guam</field>
+        <field type="CharField" name="alpha3">GUM</field>
+        <field type="PositiveSmallIntegerField" name="num_code">316</field>
+		<field type="CharField" name="phone">1</field>
+    </object>
+    <object pk="GT" model="localization.country">
+        <field type="CharField" name="name">Guatemala</field>
+        <field type="CharField" name="alpha3">GTM</field>
+        <field type="PositiveSmallIntegerField" name="num_code">320</field>
+		<field type="CharField" name="phone">502</field>
+    </object>
+    <object pk="GG" model="localization.country">
+        <field type="CharField" name="name">Guernsey</field>
+        <field type="CharField" name="alpha3">GGY</field>
+        <field type="PositiveSmallIntegerField" name="num_code">831</field>
+		<field type="CharField" name="phone">44</field>
+    </object>
+    <object pk="GN" model="localization.country">
+        <field type="CharField" name="name">Guinea</field>
+        <field type="CharField" name="alpha3">GIN</field>
+        <field type="PositiveSmallIntegerField" name="num_code">324</field>
+		<field type="CharField" name="phone">224</field>
+    </object>
+    <object pk="GW" model="localization.country">
+        <field type="CharField" name="name">Guinea-Bissau</field>
+        <field type="CharField" name="alpha3">GNB</field>
+        <field type="PositiveSmallIntegerField" name="num_code">624</field>
+		<field type="CharField" name="phone">245</field>
+    </object>
+    <object pk="GY" model="localization.country">
+        <field type="CharField" name="name">Guyana</field>
+        <field type="CharField" name="alpha3">GUY</field>
+        <field type="PositiveSmallIntegerField" name="num_code">328</field>
+		<field type="CharField" name="phone">592</field>
+    </object>
+    <object pk="HT" model="localization.country">
+        <field type="CharField" name="name">Haiti</field>
+        <field type="CharField" name="alpha3">HTI</field>
+        <field type="PositiveSmallIntegerField" name="num_code">332</field>
+		<field type="CharField" name="phone">509</field>
+    </object>
+    <object pk="HM" model="localization.country">
+        <field type="CharField" name="name">Heard Island and Mcdonald Islands</field>
+        <field type="CharField" name="alpha3">HMD</field>
+        <field type="PositiveSmallIntegerField" name="num_code">334</field>
+		<field type="CharField" name="phone">0</field>
+    </object>
+    <object pk="VA" model="localization.country">
+        <field type="CharField" name="name">Holy See</field>
+        <field type="CharField" name="alpha3">VAT</field>
+        <field type="PositiveSmallIntegerField" name="num_code">336</field>
+		<field type="CharField" name="phone">0</field>
+    </object>
+    <object pk="HN" model="localization.country">
+        <field type="CharField" name="name">Honduras</field>
+        <field type="CharField" name="alpha3">HND</field>
+        <field type="PositiveSmallIntegerField" name="num_code">340</field>
+		<field type="CharField" name="phone">504</field>
+    </object>
+    <object pk="HK" model="localization.country">
+        <field type="CharField" name="name">Hong Kong Special Administrative Region of China</field>
+        <field type="CharField" name="alpha3">HKG</field>
+        <field type="PositiveSmallIntegerField" name="num_code">344</field>
+		<field type="CharField" name="phone">852</field>
+    </object>
+    <object pk="HU" model="localization.country">
+        <field type="CharField" name="name">Hungary</field>
+        <field type="CharField" name="alpha3">HUN</field>
+        <field type="PositiveSmallIntegerField" name="num_code">348</field>
+		<field type="CharField" name="phone">36</field>
+    </object>
+    <object pk="IS" model="localization.country">
+        <field type="CharField" name="name">Iceland</field>
+        <field type="CharField" name="alpha3">ISL</field>
+        <field type="PositiveSmallIntegerField" name="num_code">352</field>
+		<field type="CharField" name="phone">354</field>
+    </object>
+    <object pk="IN" model="localization.country">
+        <field type="CharField" name="name">India</field>
+        <field type="CharField" name="alpha3">IND</field>
+        <field type="PositiveSmallIntegerField" name="num_code">356</field>
+		<field type="CharField" name="phone">91</field>
+    </object>
+    <object pk="ID" model="localization.country">
+        <field type="CharField" name="name">Indonesia</field>
+        <field type="CharField" name="alpha3">IDN</field>
+        <field type="PositiveSmallIntegerField" name="num_code">360</field>
+		<field type="CharField" name="phone">62</field>
+    </object>
+    <object pk="IR" model="localization.country">
+        <field type="CharField" name="name">Iran, Islamic Republic of</field>
+        <field type="CharField" name="alpha3">IRN</field>
+        <field type="PositiveSmallIntegerField" name="num_code">364</field>
+		<field type="CharField" name="phone">98</field>
+    </object>
+    <object pk="IQ" model="localization.country">
+        <field type="CharField" name="name">Iraq</field>
+        <field type="CharField" name="alpha3">IRQ</field>
+        <field type="PositiveSmallIntegerField" name="num_code">368</field>
+		<field type="CharField" name="phone">964</field>
+    </object>
+    <object pk="IE" model="localization.country">
+        <field type="CharField" name="name">Ireland</field>
+        <field type="CharField" name="alpha3">IRL</field>
+        <field type="PositiveSmallIntegerField" name="num_code">372</field>
+		<field type="CharField" name="phone">353</field>
+    </object>
+    <object pk="IM" model="localization.country">
+        <field type="CharField" name="name">Isle of Man</field>
+        <field type="CharField" name="alpha3">IMN</field>
+        <field type="PositiveSmallIntegerField" name="num_code">833</field>
+		<field type="CharField" name="phone">44</field>
+    </object>
+    <object pk="IL" model="localization.country">
+        <field type="CharField" name="name">Israel</field>
+        <field type="CharField" name="alpha3">ISR</field>
+        <field type="PositiveSmallIntegerField" name="num_code">376</field>
+		<field type="CharField" name="phone">972</field>
+    </object>
+    <object pk="IT" model="localization.country">
+        <field type="CharField" name="name">Italy</field>
+        <field type="CharField" name="alpha3">ITA</field>
+        <field type="PositiveSmallIntegerField" name="num_code">380</field>
+		<field type="CharField" name="phone">39</field>
+    </object>
+    <object pk="JM" model="localization.country">
+        <field type="CharField" name="name">Jamaica</field>
+        <field type="CharField" name="alpha3">JAM</field>
+        <field type="PositiveSmallIntegerField" name="num_code">388</field>
+		<field type="CharField" name="phone">1</field>
+    </object>
+    <object pk="JP" model="localization.country">
+        <field type="CharField" name="name">Japan</field>
+        <field type="CharField" name="alpha3">JPN</field>
+        <field type="PositiveSmallIntegerField" name="num_code">392</field>
+		<field type="CharField" name="phone">81</field>
+    </object>
+    <object pk="JE" model="localization.country">
+        <field type="CharField" name="name">Jersey</field>
+        <field type="CharField" name="alpha3">JEY</field>
+        <field type="PositiveSmallIntegerField" name="num_code">832</field>
+		<field type="CharField" name="phone">44</field>
+    </object>
+    <object pk="JO" model="localization.country">
+        <field type="CharField" name="name">Jordan</field>
+        <field type="CharField" name="alpha3">JOR</field>
+        <field type="PositiveSmallIntegerField" name="num_code">400</field>
+		<field type="CharField" name="phone">962</field>
+    </object>
+    <object pk="KZ" model="localization.country">
+        <field type="CharField" name="name">Kazakhstan</field>
+        <field type="CharField" name="alpha3">KAZ</field>
+        <field type="PositiveSmallIntegerField" name="num_code">398</field>
+		<field type="CharField" name="phone">7</field>
+    </object>
+    <object pk="KE" model="localization.country">
+        <field type="CharField" name="name">Kenya</field>
+        <field type="CharField" name="alpha3">KEN</field>
+        <field type="PositiveSmallIntegerField" name="num_code">404</field>
+		<field type="CharField" name="phone">254</field>
+    </object>
+    <object pk="KI" model="localization.country">
+        <field type="CharField" name="name">Kiribati</field>
+        <field type="CharField" name="alpha3">KIR</field>
+        <field type="PositiveSmallIntegerField" name="num_code">296</field>
+		<field type="CharField" name="phone">686</field>
+    </object>
+    <object pk="KP" model="localization.country">
+        <field type="CharField" name="name">Democratic People's Republic of Korea</field>
+        <field type="CharField" name="alpha3">PRK</field>
+        <field type="PositiveSmallIntegerField" name="num_code">408</field>
+		<field type="CharField" name="phone">0</field>
+    </object>
+    <object pk="KR" model="localization.country">
+        <field type="CharField" name="name">Republic of Korea</field>
+        <field type="CharField" name="alpha3">KOR</field>
+        <field type="PositiveSmallIntegerField" name="num_code">410</field>
+		<field type="CharField" name="phone">0</field>
+    </object>
+    <object pk="KW" model="localization.country">
+        <field type="CharField" name="name">Kuwait</field>
+        <field type="CharField" name="alpha3">KWT</field>
+        <field type="PositiveSmallIntegerField" name="num_code">414</field>
+		<field type="CharField" name="phone">965</field>
+    </object>
+    <object pk="KG" model="localization.country">
+        <field type="CharField" name="name">Kyrgyzstan</field>
+        <field type="CharField" name="alpha3">KGZ</field>
+        <field type="PositiveSmallIntegerField" name="num_code">417</field>
+		<field type="CharField" name="phone">996</field>
+    </object>
+    <object pk="LA" model="localization.country">
+        <field type="CharField" name="name">Lao People's Democratic Republic</field>
+        <field type="CharField" name="alpha3">LAO</field>
+        <field type="PositiveSmallIntegerField" name="num_code">418</field>
+		<field type="CharField" name="phone">856</field>
+    </object>
+    <object pk="LV" model="localization.country">
+        <field type="CharField" name="name">Latvia</field>
+        <field type="CharField" name="alpha3">LVA</field>
+        <field type="PositiveSmallIntegerField" name="num_code">428</field>
+		<field type="CharField" name="phone">371</field>
+    </object>
+    <object pk="LB" model="localization.country">
+        <field type="CharField" name="name">Lebanon</field>
+        <field type="CharField" name="alpha3">LBN</field>
+        <field type="PositiveSmallIntegerField" name="num_code">422</field>
+		<field type="CharField" name="phone">961</field>
+    </object>
+    <object pk="LS" model="localization.country">
+        <field type="CharField" name="name">Lesotho</field>
+        <field type="CharField" name="alpha3">LSO</field>
+        <field type="PositiveSmallIntegerField" name="num_code">426</field>
+		<field type="CharField" name="phone">266</field>
+    </object>
+    <object pk="LR" model="localization.country">
+        <field type="CharField" name="name">Liberia</field>
+        <field type="CharField" name="alpha3">LBR</field>
+        <field type="PositiveSmallIntegerField" name="num_code">430</field>
+		<field type="CharField" name="phone">231</field>
+    </object>
+    <object pk="LY" model="localization.country">
+        <field type="CharField" name="name">Libyan Arab Jamahiriya</field>
+        <field type="CharField" name="alpha3">LBY</field>
+        <field type="PositiveSmallIntegerField" name="num_code">434</field>
+		<field type="CharField" name="phone">218</field>
+    </object>
+    <object pk="LI" model="localization.country">
+        <field type="CharField" name="name">Liechtenstein</field>
+        <field type="CharField" name="alpha3">LIE</field>
+        <field type="PositiveSmallIntegerField" name="num_code">438</field>
+		<field type="CharField" name="phone">423</field>
+    </object>
+    <object pk="LT" model="localization.country">
+        <field type="CharField" name="name">Lithuania</field>
+        <field type="CharField" name="alpha3">LTU</field>
+        <field type="PositiveSmallIntegerField" name="num_code">440</field>
+		<field type="CharField" name="phone">370</field>
+    </object>
+    <object pk="LU" model="localization.country">
+        <field type="CharField" name="name">Luxembourg</field>
+        <field type="CharField" name="alpha3">LUX</field>
+        <field type="PositiveSmallIntegerField" name="num_code">442</field>
+		<field type="CharField" name="phone">352</field>
+    </object>
+    <object pk="MO" model="localization.country">
+        <field type="CharField" name="name">Macao Special Administrative Region of China</field>
+        <field type="CharField" name="alpha3">MAC</field>
+        <field type="PositiveSmallIntegerField" name="num_code">446</field>
+		<field type="CharField" name="phone">853</field>
+    </object>
+    <object pk="MK" model="localization.country">
+        <field type="CharField" name="name">The former Yugoslav Republic of Macedonia</field>
+        <field type="CharField" name="alpha3">MKD</field>
+        <field type="PositiveSmallIntegerField" name="num_code">807</field>
+		<field type="CharField" name="phone">389</field>
+    </object>
+    <object pk="MG" model="localization.country">
+        <field type="CharField" name="name">Madagascar</field>
+        <field type="CharField" name="alpha3">MDG</field>
+        <field type="PositiveSmallIntegerField" name="num_code">450</field>
+		<field type="CharField" name="phone">261</field>
+    </object>
+    <object pk="MW" model="localization.country">
+        <field type="CharField" name="name">Malawi</field>
+        <field type="CharField" name="alpha3">MWI</field>
+        <field type="PositiveSmallIntegerField" name="num_code">454</field>
+		<field type="CharField" name="phone">265</field>
+    </object>
+    <object pk="MY" model="localization.country">
+        <field type="CharField" name="name">Malaysia</field>
+        <field type="CharField" name="alpha3">MYS</field>
+        <field type="PositiveSmallIntegerField" name="num_code">458</field>
+		<field type="CharField" name="phone">60</field>
+    </object>
+    <object pk="MV" model="localization.country">
+        <field type="CharField" name="name">Maldives</field>
+        <field type="CharField" name="alpha3">MDV</field>
+        <field type="PositiveSmallIntegerField" name="num_code">462</field>
+		<field type="CharField" name="phone">960</field>
+    </object>
+    <object pk="ML" model="localization.country">
+        <field type="CharField" name="name">Mali</field>
+        <field type="CharField" name="alpha3">MLI</field>
+        <field type="PositiveSmallIntegerField" name="num_code">466</field>
+		<field type="CharField" name="phone">223</field>
+    </object>
+    <object pk="MT" model="localization.country">
+        <field type="CharField" name="name">Malta</field>
+        <field type="CharField" name="alpha3">MLT</field>
+        <field type="PositiveSmallIntegerField" name="num_code">470</field>
+		<field type="CharField" name="phone">356</field>
+    </object>
+    <object pk="MH" model="localization.country">
+        <field type="CharField" name="name">Marshall Islands</field>
+        <field type="CharField" name="alpha3">MHL</field>
+        <field type="PositiveSmallIntegerField" name="num_code">584</field>
+		<field type="CharField" name="phone">692</field>
+    </object>
+    <object pk="MQ" model="localization.country">
+        <field type="CharField" name="name">Martinique</field>
+        <field type="CharField" name="alpha3">MTQ</field>
+        <field type="PositiveSmallIntegerField" name="num_code">474</field>
+		<field type="CharField" name="phone">596</field>
+    </object>
+    <object pk="MR" model="localization.country">
+        <field type="CharField" name="name">Mauritania</field>
+        <field type="CharField" name="alpha3">MRT</field>
+        <field type="PositiveSmallIntegerField" name="num_code">478</field>
+		<field type="CharField" name="phone">222</field>
+    </object>
+    <object pk="MU" model="localization.country">
+        <field type="CharField" name="name">Mauritius</field>
+        <field type="CharField" name="alpha3">MUS</field>
+        <field type="PositiveSmallIntegerField" name="num_code">480</field>
+		<field type="CharField" name="phone">230</field>
+    </object>
+    <object pk="YT" model="localization.country">
+        <field type="CharField" name="name">Mayotte</field>
+        <field type="CharField" name="alpha3">MYT</field>
+        <field type="PositiveSmallIntegerField" name="num_code">175</field>
+		<field type="CharField" name="phone">269</field>
+    </object>
+    <object pk="MX" model="localization.country">
+        <field type="CharField" name="name">Mexico</field>
+        <field type="CharField" name="alpha3">MEX</field>
+        <field type="PositiveSmallIntegerField" name="num_code">484</field>
+		<field type="CharField" name="phone">52</field>
+    </object>
+    <object pk="FM" model="localization.country">
+        <field type="CharField" name="name">Micronesia, Federated States of</field>
+        <field type="CharField" name="alpha3">FSM</field>
+        <field type="PositiveSmallIntegerField" name="num_code">583</field>
+		<field type="CharField" name="phone">691</field>
+    </object>
+    <object pk="MD" model="localization.country">
+        <field type="CharField" name="name">Republic of Moldova</field>
+        <field type="CharField" name="alpha3">MDA</field>
+        <field type="PositiveSmallIntegerField" name="num_code">498</field>
+		<field type="CharField" name="phone">373</field>
+    </object>
+    <object pk="MC" model="localization.country">
+        <field type="CharField" name="name">Monaco</field>
+        <field type="CharField" name="alpha3">MCO</field>
+        <field type="PositiveSmallIntegerField" name="num_code">492</field>
+		<field type="CharField" name="phone">377</field>
+    </object>
+    <object pk="MN" model="localization.country">
+        <field type="CharField" name="name">Mongolia</field>
+        <field type="CharField" name="alpha3">MNG</field>
+        <field type="PositiveSmallIntegerField" name="num_code">496</field>
+		<field type="CharField" name="phone">976</field>
+    </object>
+    <object pk="ME" model="localization.country">
+        <field type="CharField" name="name">Montenegro</field>
+        <field type="CharField" name="alpha3">MNE</field>
+        <field type="PositiveSmallIntegerField" name="num_code">499</field>
+		<field type="CharField" name="phone">0</field>
+    </object>
+    <object pk="MS" model="localization.country">
+        <field type="CharField" name="name">Montserrat</field>
+        <field type="CharField" name="alpha3">MSR</field>
+        <field type="PositiveSmallIntegerField" name="num_code">500</field>
+		<field type="CharField" name="phone">1</field>
+    </object>
+    <object pk="MA" model="localization.country">
+        <field type="CharField" name="name">Morocco</field>
+        <field type="CharField" name="alpha3">MAR</field>
+        <field type="PositiveSmallIntegerField" name="num_code">504</field>
+		<field type="CharField" name="phone">212</field>
+    </object>
+    <object pk="MZ" model="localization.country">
+        <field type="CharField" name="name">Mozambique</field>
+        <field type="CharField" name="alpha3">MOZ</field>
+        <field type="PositiveSmallIntegerField" name="num_code">508</field>
+		<field type="CharField" name="phone">258</field>
+    </object>
+    <object pk="MM" model="localization.country">
+        <field type="CharField" name="name">Myanmar</field>
+        <field type="CharField" name="alpha3">MMR</field>
+        <field type="PositiveSmallIntegerField" name="num_code">104</field>
+		<field type="CharField" name="phone">95</field>
+    </object>
+    <object pk="NA" model="localization.country">
+        <field type="CharField" name="name">Namibia</field>
+        <field type="CharField" name="alpha3">NAM</field>
+        <field type="PositiveSmallIntegerField" name="num_code">516</field>
+		<field type="CharField" name="phone">264</field>
+    </object>
+    <object pk="NR" model="localization.country">
+        <field type="CharField" name="name">Nauru</field>
+        <field type="CharField" name="alpha3">NRU</field>
+        <field type="PositiveSmallIntegerField" name="num_code">520</field>
+		<field type="CharField" name="phone">674</field>
+    </object>
+    <object pk="NP" model="localization.country">
+        <field type="CharField" name="name">Nepal</field>
+        <field type="CharField" name="alpha3">NPL</field>
+        <field type="PositiveSmallIntegerField" name="num_code">524</field>
+		<field type="CharField" name="phone">977</field>
+    </object>
+    <object pk="NL" model="localization.country">
+        <field type="CharField" name="name">Netherlands</field>
+        <field type="CharField" name="alpha3">NLD</field>
+        <field type="PositiveSmallIntegerField" name="num_code">528</field>
+		<field type="CharField" name="phone">31</field>
+    </object>
+    <object pk="AN" model="localization.country">
+        <field type="CharField" name="name">Netherlands Antilles</field>
+        <field type="CharField" name="alpha3">ANT</field>
+        <field type="PositiveSmallIntegerField" name="num_code">530</field>
+		<field type="CharField" name="phone">599</field>
+    </object>
+    <object pk="NC" model="localization.country">
+        <field type="CharField" name="name">New Caledonia</field>
+        <field type="CharField" name="alpha3">NCL</field>
+        <field type="PositiveSmallIntegerField" name="num_code">540</field>
+		<field type="CharField" name="phone">687</field>
+    </object>
+    <object pk="NZ" model="localization.country">
+        <field type="CharField" name="name">New Zealand</field>
+        <field type="CharField" name="alpha3">NZL</field>
+        <field type="PositiveSmallIntegerField" name="num_code">554</field>
+		<field type="CharField" name="phone">64</field>
+    </object>
+    <object pk="NI" model="localization.country">
+        <field type="CharField" name="name">Nicaragua</field>
+        <field type="CharField" name="alpha3">NIC</field>
+        <field type="PositiveSmallIntegerField" name="num_code">558</field>
+		<field type="CharField" name="phone">505</field>
+    </object>
+    <object pk="NE" model="localization.country">
+        <field type="CharField" name="name">Niger</field>
+        <field type="CharField" name="alpha3">NER</field>
+        <field type="PositiveSmallIntegerField" name="num_code">562</field>
+		<field type="CharField" name="phone">277</field>
+    </object>
+    <object pk="NG" model="localization.country">
+        <field type="CharField" name="name">Nigeria</field>
+        <field type="CharField" name="alpha3">NGA</field>
+        <field type="PositiveSmallIntegerField" name="num_code">566</field>
+		<field type="CharField" name="phone">234</field>
+    </object>
+    <object pk="NU" model="localization.country">
+        <field type="CharField" name="name">Niue</field>
+        <field type="CharField" name="alpha3">NIU</field>
+        <field type="PositiveSmallIntegerField" name="num_code">570</field>
+		<field type="CharField" name="phone">683</field>
+    </object>
+    <object pk="NF" model="localization.country">
+        <field type="CharField" name="name">Norfolk Island</field>
+        <field type="CharField" name="alpha3">NFK</field>
+        <field type="PositiveSmallIntegerField" name="num_code">574</field>
+		<field type="CharField" name="phone">672</field>
+    </object>
+    <object pk="MP" model="localization.country">
+        <field type="CharField" name="name">Northern Mariana Islands</field>
+        <field type="CharField" name="alpha3">MNP</field>
+        <field type="PositiveSmallIntegerField" name="num_code">580</field>
+		<field type="CharField" name="phone">850</field>
+    </object>
+    <object pk="NO" model="localization.country">
+        <field type="CharField" name="name">Norway</field>
+        <field type="CharField" name="alpha3">NOR</field>
+        <field type="PositiveSmallIntegerField" name="num_code">578</field>
+		<field type="CharField" name="phone">47</field>
+    </object>
+    <object pk="OM" model="localization.country">
+        <field type="CharField" name="name">Oman</field>
+        <field type="CharField" name="alpha3">OMN</field>
+        <field type="PositiveSmallIntegerField" name="num_code">512</field>
+		<field type="CharField" name="phone">968</field>
+    </object>
+    <object pk="PK" model="localization.country">
+        <field type="CharField" name="name">Pakistan</field>
+        <field type="CharField" name="alpha3">PAK</field>
+        <field type="PositiveSmallIntegerField" name="num_code">586</field>
+		<field type="CharField" name="phone">92</field>
+    </object>
+    <object pk="PW" model="localization.country">
+        <field type="CharField" name="name">Palau</field>
+        <field type="CharField" name="alpha3">PLW</field>
+        <field type="PositiveSmallIntegerField" name="num_code">585</field>
+		<field type="CharField" name="phone">680</field>
+    </object>
+    <object pk="PS" model="localization.country">
+        <field type="CharField" name="name">Occupied Palestinian Territory</field>
+        <field type="CharField" name="alpha3">PSE</field>
+        <field type="PositiveSmallIntegerField" name="num_code">275</field>
+		<field type="CharField" name="phone">670</field>
+    </object>
+    <object pk="PA" model="localization.country">
+        <field type="CharField" name="name">Panama</field>
+        <field type="CharField" name="alpha3">PAN</field>
+        <field type="PositiveSmallIntegerField" name="num_code">591</field>
+		<field type="CharField" name="phone">507</field>
+    </object>
+    <object pk="PG" model="localization.country">
+        <field type="CharField" name="name">Papua New Guinea</field>
+        <field type="CharField" name="alpha3">PNG</field>
+        <field type="PositiveSmallIntegerField" name="num_code">598</field>
+		<field type="CharField" name="phone">675</field>
+    </object>
+    <object pk="PY" model="localization.country">
+        <field type="CharField" name="name">Paraguay</field>
+        <field type="CharField" name="alpha3">PRY</field>
+        <field type="PositiveSmallIntegerField" name="num_code">600</field>
+		<field type="CharField" name="phone">595</field>
+    </object>
+    <object pk="PE" model="localization.country">
+        <field type="CharField" name="name">Peru</field>
+        <field type="CharField" name="alpha3">PER</field>
+        <field type="PositiveSmallIntegerField" name="num_code">604</field>
+		<field type="CharField" name="phone">51</field>
+    </object>
+    <object pk="PH" model="localization.country">
+        <field type="CharField" name="name">Philippines</field>
+        <field type="CharField" name="alpha3">PHL</field>
+        <field type="PositiveSmallIntegerField" name="num_code">608</field>
+		<field type="CharField" name="phone">63</field>
+    </object>
+    <object pk="PN" model="localization.country">
+        <field type="CharField" name="name">Pitcairn</field>
+        <field type="CharField" name="alpha3">PCN</field>
+        <field type="PositiveSmallIntegerField" name="num_code">612</field>
+		<field type="CharField" name="phone">0</field>
+    </object>
+    <object pk="PL" model="localization.country">
+        <field type="CharField" name="name">Poland</field>
+        <field type="CharField" name="alpha3">POL</field>
+        <field type="PositiveSmallIntegerField" name="num_code">616</field>
+		<field type="CharField" name="phone">48</field>
+    </object>
+    <object pk="PT" model="localization.country">
+        <field type="CharField" name="name">Portugal</field>
+        <field type="CharField" name="alpha3">PRT</field>
+        <field type="PositiveSmallIntegerField" name="num_code">620</field>
+		<field type="CharField" name="phone">351</field>
+    </object>
+    <object pk="PR" model="localization.country">
+        <field type="CharField" name="name">Puerto Rico</field>
+        <field type="CharField" name="alpha3">PRI</field>
+        <field type="PositiveSmallIntegerField" name="num_code">630</field>
+		<field type="CharField" name="phone">1</field>
+    </object>
+    <object pk="QA" model="localization.country">
+        <field type="CharField" name="name">Qatar</field>
+        <field type="CharField" name="alpha3">QAT</field>
+        <field type="PositiveSmallIntegerField" name="num_code">634</field>
+		<field type="CharField" name="phone">974</field>
+    </object>
+    <object pk="RE" model="localization.country">
+        <field type="CharField" name="name">Réunion</field>
+        <field type="CharField" name="alpha3">REU</field>
+        <field type="PositiveSmallIntegerField" name="num_code">638</field>
+		<field type="CharField" name="phone">262</field>
+    </object>
+    <object pk="RO" model="localization.country">
+        <field type="CharField" name="name">Romania</field>
+        <field type="CharField" name="alpha3">ROU</field>
+        <field type="PositiveSmallIntegerField" name="num_code">642</field>
+		<field type="CharField" name="phone">40</field>
+    </object>
+    <object pk="RU" model="localization.country">
+        <field type="CharField" name="name">Russian Federation</field>
+        <field type="CharField" name="alpha3">RUS</field>
+        <field type="PositiveSmallIntegerField" name="num_code">643</field>
+		<field type="CharField" name="phone">7</field>
+    </object>
+    <object pk="RW" model="localization.country">
+        <field type="CharField" name="name">Rwanda</field>
+        <field type="CharField" name="alpha3">RWA</field>
+        <field type="PositiveSmallIntegerField" name="num_code">646</field>
+		<field type="CharField" name="phone">250</field>
+    </object>
+    <object pk="SH" model="localization.country">
+        <field type="CharField" name="name">Saint Helena</field>
+        <field type="CharField" name="alpha3">SHN</field>
+        <field type="PositiveSmallIntegerField" name="num_code">654</field>
+		<field type="CharField" name="phone">0</field>
+    </object>
+    <object pk="KN" model="localization.country">
+        <field type="CharField" name="name">Saint Kitts and Nevis</field>
+        <field type="CharField" name="alpha3">KNA</field>
+        <field type="PositiveSmallIntegerField" name="num_code">659</field>
+		<field type="CharField" name="phone">290</field>
+    </object>
+    <object pk="LC" model="localization.country">
+        <field type="CharField" name="name">Saint Lucia</field>
+        <field type="CharField" name="alpha3">LCA</field>
+        <field type="PositiveSmallIntegerField" name="num_code">662</field>
+		<field type="CharField" name="phone">1</field>
+    </object>
+    <object pk="PM" model="localization.country">
+        <field type="CharField" name="name">Saint Pierre and Miquelon</field>
+        <field type="CharField" name="alpha3">SPM</field>
+        <field type="PositiveSmallIntegerField" name="num_code">666</field>
+		<field type="CharField" name="phone">0</field>
+    </object>
+    <object pk="VC" model="localization.country">
+        <field type="CharField" name="name">Saint Vincent and the Grenadines</field>
+        <field type="CharField" name="alpha3">VCT</field>
+        <field type="PositiveSmallIntegerField" name="num_code">670</field>
+		<field type="CharField" name="phone">508</field>
+    </object>
+    <object pk="WS" model="localization.country">
+        <field type="CharField" name="name">Samoa</field>
+        <field type="CharField" name="alpha3">WSM</field>
+        <field type="PositiveSmallIntegerField" name="num_code">882</field>
+		<field type="CharField" name="phone">1</field>
+    </object>
+    <object pk="SM" model="localization.country">
+        <field type="CharField" name="name">San Marino</field>
+        <field type="CharField" name="alpha3">SMR</field>
+        <field type="PositiveSmallIntegerField" name="num_code">674</field>
+		<field type="CharField" name="phone">685</field>
+    </object>
+    <object pk="ST" model="localization.country">
+        <field type="CharField" name="name">Sao Tome and Principe</field>
+        <field type="CharField" name="alpha3">STP</field>
+        <field type="PositiveSmallIntegerField" name="num_code">678</field>
+		<field type="CharField" name="phone">378</field>
+    </object>
+    <object pk="SA" model="localization.country">
+        <field type="CharField" name="name">Saudi Arabia</field>
+        <field type="CharField" name="alpha3">SAU</field>
+        <field type="PositiveSmallIntegerField" name="num_code">682</field>
+		<field type="CharField" name="phone">966</field>
+    </object>
+    <object pk="SN" model="localization.country">
+        <field type="CharField" name="name">Senegal</field>
+        <field type="CharField" name="alpha3">SEN</field>
+        <field type="PositiveSmallIntegerField" name="num_code">686</field>
+		<field type="CharField" name="phone">221</field>
+    </object>
+    <object pk="RS" model="localization.country">
+        <field type="CharField" name="name">Serbia</field>
+        <field type="CharField" name="alpha3">SRB</field>
+        <field type="PositiveSmallIntegerField" name="num_code">688</field>
+		<field type="CharField" name="phone">381</field>
+    </object>
+    <object pk="SC" model="localization.country">
+        <field type="CharField" name="name">Seychelles</field>
+        <field type="CharField" name="alpha3">SYC</field>
+        <field type="PositiveSmallIntegerField" name="num_code">690</field>
+		<field type="CharField" name="phone">248</field>
+    </object>
+    <object pk="SL" model="localization.country">
+        <field type="CharField" name="name">Sierra Leone</field>
+        <field type="CharField" name="alpha3">SLE</field>
+        <field type="PositiveSmallIntegerField" name="num_code">694</field>
+		<field type="CharField" name="phone">232</field>
+    </object>
+    <object pk="SG" model="localization.country">
+        <field type="CharField" name="name">Singapore</field>
+        <field type="CharField" name="alpha3">SGP</field>
+        <field type="PositiveSmallIntegerField" name="num_code">702</field>
+		<field type="CharField" name="phone">65</field>
+    </object>
+    <object pk="SK" model="localization.country">
+        <field type="CharField" name="name">Slovakia</field>
+        <field type="CharField" name="alpha3">SVK</field>
+        <field type="PositiveSmallIntegerField" name="num_code">703</field>
+		<field type="CharField" name="phone">421</field>
+    </object>
+    <object pk="SI" model="localization.country">
+        <field type="CharField" name="name">Slovenia</field>
+        <field type="CharField" name="alpha3">SVN</field>
+        <field type="PositiveSmallIntegerField" name="num_code">705</field>
+		<field type="CharField" name="phone">386</field>
+    </object>
+    <object pk="SB" model="localization.country">
+        <field type="CharField" name="name">Solomon Islands</field>
+        <field type="CharField" name="alpha3">SLB</field>
+        <field type="PositiveSmallIntegerField" name="num_code">90</field>
+		<field type="CharField" name="phone">677</field>
+    </object>
+    <object pk="SO" model="localization.country">
+        <field type="CharField" name="name">Somalia</field>
+        <field type="CharField" name="alpha3">SOM</field>
+        <field type="PositiveSmallIntegerField" name="num_code">706</field>
+		<field type="CharField" name="phone">252</field>
+    </object>
+    <object pk="ZA" model="localization.country">
+        <field type="CharField" name="name">South Africa</field>
+        <field type="CharField" name="alpha3">ZAF</field>
+        <field type="PositiveSmallIntegerField" name="num_code">710</field>
+		<field type="CharField" name="phone">27</field>
+    </object>
+    <object pk="GS" model="localization.country">
+        <field type="CharField" name="name">South Georgia and the South Sandwich Islands</field>
+        <field type="CharField" name="alpha3">SGS</field>
+        <field type="PositiveSmallIntegerField" name="num_code">239</field>
+		<field type="CharField" name="phone">0</field>
+    </object>
+    <object pk="ES" model="localization.country">
+        <field type="CharField" name="name">Spain</field>
+        <field type="CharField" name="alpha3">ESP</field>
+        <field type="PositiveSmallIntegerField" name="num_code">724</field>
+		<field type="CharField" name="phone">34</field>
+    </object>
+    <object pk="LK" model="localization.country">
+        <field type="CharField" name="name">Sri Lanka</field>
+        <field type="CharField" name="alpha3">LKA</field>
+        <field type="PositiveSmallIntegerField" name="num_code">144</field>
+		<field type="CharField" name="phone">94</field>
+    </object>
+    <object pk="SD" model="localization.country">
+        <field type="CharField" name="name">Sudan</field>
+        <field type="CharField" name="alpha3">SDN</field>
+        <field type="PositiveSmallIntegerField" name="num_code">736</field>
+		<field type="CharField" name="phone">249</field>
+    </object>
+    <object pk="SR" model="localization.country">
+        <field type="CharField" name="name">Suriname</field>
+        <field type="CharField" name="alpha3">SUR</field>
+        <field type="PositiveSmallIntegerField" name="num_code">740</field>
+		<field type="CharField" name="phone">597</field>
+    </object>
+    <object pk="SJ" model="localization.country">
+        <field type="CharField" name="name">Svalbard and Jan Mayen Islands</field>
+        <field type="CharField" name="alpha3">SJM</field>
+        <field type="PositiveSmallIntegerField" name="num_code">744</field>
+		<field type="CharField" name="phone">0</field>
+    </object>
+    <object pk="SZ" model="localization.country">
+        <field type="CharField" name="name">Swaziland</field>
+        <field type="CharField" name="alpha3">SWZ</field>
+        <field type="PositiveSmallIntegerField" name="num_code">748</field>
+		<field type="CharField" name="phone">298</field>
+    </object>
+    <object pk="SE" model="localization.country">
+        <field type="CharField" name="name">Sweden</field>
+        <field type="CharField" name="alpha3">SWE</field>
+        <field type="PositiveSmallIntegerField" name="num_code">752</field>
+		<field type="CharField" name="phone">46</field>
+    </object>
+    <object pk="CH" model="localization.country">
+        <field type="CharField" name="name">Switzerland</field>
+        <field type="CharField" name="alpha3">CHE</field>
+        <field type="PositiveSmallIntegerField" name="num_code">756</field>
+		<field type="CharField" name="phone">41</field>
+    </object>
+    <object pk="SY" model="localization.country">
+        <field type="CharField" name="name">Syrian Arab Republic</field>
+        <field type="CharField" name="alpha3">SYR</field>
+        <field type="PositiveSmallIntegerField" name="num_code">760</field>
+		<field type="CharField" name="phone">963</field>
+    </object>
+    <object pk="TW" model="localization.country">
+        <field type="CharField" name="name">Taiwan, Province of China</field>
+        <field type="CharField" name="alpha3">TWN</field>
+        <field type="PositiveSmallIntegerField" name="num_code">158</field>
+		<field type="CharField" name="phone">886</field>
+    </object>
+    <object pk="TJ" model="localization.country">
+        <field type="CharField" name="name">Tajikistan</field>
+        <field type="CharField" name="alpha3">TJK</field>
+        <field type="PositiveSmallIntegerField" name="num_code">762</field>
+		<field type="CharField" name="phone">992</field>
+    </object>
+    <object pk="TZ" model="localization.country">
+        <field type="CharField" name="name">United Republic of Tanzania</field>
+        <field type="CharField" name="alpha3">TZA</field>
+        <field type="PositiveSmallIntegerField" name="num_code">834</field>
+		<field type="CharField" name="phone">255</field>
+    </object>
+    <object pk="TH" model="localization.country">
+        <field type="CharField" name="name">Thailand</field>
+        <field type="CharField" name="alpha3">THA</field>
+        <field type="PositiveSmallIntegerField" name="num_code">764</field>
+		<field type="CharField" name="phone">66</field>
+    </object>
+    <object pk="TL" model="localization.country">
+        <field type="CharField" name="name">Timor-Leste</field>
+        <field type="CharField" name="alpha3">TLS</field>
+        <field type="PositiveSmallIntegerField" name="num_code">626</field>
+		<field type="CharField" name="phone">0</field>
+    </object>
+    <object pk="TG" model="localization.country">
+        <field type="CharField" name="name">Togo</field>
+        <field type="CharField" name="alpha3">TGO</field>
+        <field type="PositiveSmallIntegerField" name="num_code">768</field>
+		<field type="CharField" name="phone">228</field>
+    </object>
+    <object pk="TK" model="localization.country">
+        <field type="CharField" name="name">Tokelau</field>
+        <field type="CharField" name="alpha3">TKL</field>
+        <field type="PositiveSmallIntegerField" name="num_code">772</field>
+		<field type="CharField" name="phone">690</field>
+    </object>
+    <object pk="TO" model="localization.country">
+        <field type="CharField" name="name">Tonga</field>
+        <field type="CharField" name="alpha3">TON</field>
+        <field type="PositiveSmallIntegerField" name="num_code">776</field>
+		<field type="CharField" name="phone">676</field>
+    </object>
+    <object pk="TT" model="localization.country">
+        <field type="CharField" name="name">Trinidad and Tobago</field>
+        <field type="CharField" name="alpha3">TTO</field>
+        <field type="PositiveSmallIntegerField" name="num_code">780</field>
+		<field type="CharField" name="phone">1</field>
+    </object>
+    <object pk="TN" model="localization.country">
+        <field type="CharField" name="name">Tunisia</field>
+        <field type="CharField" name="alpha3">TUN</field>
+        <field type="PositiveSmallIntegerField" name="num_code">788</field>
+		<field type="CharField" name="phone">216</field>
+    </object>
+    <object pk="TR" model="localization.country">
+        <field type="CharField" name="name">Turkey</field>
+        <field type="CharField" name="alpha3">TUR</field>
+        <field type="PositiveSmallIntegerField" name="num_code">792</field>
+		<field type="CharField" name="phone">90</field>
+    </object>
+    <object pk="TM" model="localization.country">
+        <field type="CharField" name="name">Turkmenistan</field>
+        <field type="CharField" name="alpha3">TKM</field>
+        <field type="PositiveSmallIntegerField" name="num_code">795</field>
+		<field type="CharField" name="phone">993</field>
+    </object>
+    <object pk="TC" model="localization.country">
+        <field type="CharField" name="name">Turks and Caicos Islands</field>
+        <field type="CharField" name="alpha3">TCA</field>
+        <field type="PositiveSmallIntegerField" name="num_code">796</field>
+		<field type="CharField" name="phone">1</field>
+    </object>
+    <object pk="TV" model="localization.country">
+        <field type="CharField" name="name">Tuvalu</field>
+        <field type="CharField" name="alpha3">TUV</field>
+        <field type="PositiveSmallIntegerField" name="num_code">798</field>
+		<field type="CharField" name="phone">688</field>
+    </object>
+    <object pk="UG" model="localization.country">
+        <field type="CharField" name="name">Uganda</field>
+        <field type="CharField" name="alpha3">UGA</field>
+        <field type="PositiveSmallIntegerField" name="num_code">800</field>
+		<field type="CharField" name="phone">256</field>
+    </object>
+    <object pk="UA" model="localization.country">
+        <field type="CharField" name="name">Ukraine</field>
+        <field type="CharField" name="alpha3">UKR</field>
+        <field type="PositiveSmallIntegerField" name="num_code">804</field>
+		<field type="CharField" name="phone">380</field>
+    </object>
+    <object pk="AE" model="localization.country">
+        <field type="CharField" name="name">United Arab Emirates</field>
+        <field type="CharField" name="alpha3">ARE</field>
+        <field type="PositiveSmallIntegerField" name="num_code">784</field>
+		<field type="CharField" name="phone">971</field>
+    </object>
+    <object pk="GB" model="localization.country">
+        <field type="CharField" name="name">United Kingdom of Great Britain and Northern Ireland</field>
+        <field type="CharField" name="alpha3">GBR</field>
+        <field type="PositiveSmallIntegerField" name="num_code">826</field>
+		<field type="CharField" name="phone">44</field>
+    </object>
+    <object pk="US" model="localization.country">
+        <field type="CharField" name="name">United States of America</field>
+        <field type="CharField" name="alpha3">USA</field>
+        <field type="PositiveSmallIntegerField" name="num_code">840</field>
+		<field type="CharField" name="phone">1</field>
+    </object>
+    <object pk="UM" model="localization.country">
+        <field type="CharField" name="name">United States Minor Outlying Islands</field>
+        <field type="CharField" name="alpha3">UMI</field>
+        <field type="PositiveSmallIntegerField" name="num_code">581</field>
+		<field type="CharField" name="phone">0</field>
+    </object>
+    <object pk="UY" model="localization.country">
+        <field type="CharField" name="name">Uruguay</field>
+        <field type="CharField" name="alpha3">URY</field>
+        <field type="PositiveSmallIntegerField" name="num_code">858</field>
+		<field type="CharField" name="phone">598</field>
+    </object>
+    <object pk="UZ" model="localization.country">
+        <field type="CharField" name="name">Uzbekistan</field>
+        <field type="CharField" name="alpha3">UZB</field>
+        <field type="PositiveSmallIntegerField" name="num_code">860</field>
+		<field type="CharField" name="phone">0</field>
+    </object>
+    <object pk="VU" model="localization.country">
+        <field type="CharField" name="name">Vanuatu</field>
+        <field type="CharField" name="alpha3">VUT</field>
+        <field type="PositiveSmallIntegerField" name="num_code">548</field>
+		<field type="CharField" name="phone">678</field>
+    </object>
+    <object pk="VE" model="localization.country">
+        <field type="CharField" name="name">Venezuela (Bolivarian Republic of)</field>
+        <field type="CharField" name="alpha3">VEN</field>
+        <field type="PositiveSmallIntegerField" name="num_code">862</field>
+		<field type="CharField" name="phone">58</field>
+    </object>
+    <object pk="VN" model="localization.country">
+        <field type="CharField" name="name">Viet Nam</field>
+        <field type="CharField" name="alpha3">VNM</field>
+        <field type="PositiveSmallIntegerField" name="num_code">704</field>
+		<field type="CharField" name="phone">84</field>
+    </object>
+    <object pk="VG" model="localization.country">
+        <field type="CharField" name="name">British Virgin Islands</field>
+        <field type="CharField" name="alpha3">VGB</field>
+        <field type="PositiveSmallIntegerField" name="num_code">92</field>
+		<field type="CharField" name="phone">1</field>
+    </object>
+    <object pk="VI" model="localization.country">
+        <field type="CharField" name="name">United States Virgin Islands</field>
+        <field type="CharField" name="alpha3">VIR</field>
+        <field type="PositiveSmallIntegerField" name="num_code">850</field>
+		<field type="CharField" name="phone">1</field>
+    </object>
+    <object pk="WF" model="localization.country">
+        <field type="CharField" name="name">Wallis and Futuna Islands</field>
+        <field type="CharField" name="alpha3">WLF</field>
+        <field type="PositiveSmallIntegerField" name="num_code">876</field>
+		<field type="CharField" name="phone">681</field>
+    </object>
+    <object pk="EH" model="localization.country">
+        <field type="CharField" name="name">Western Sahara</field>
+        <field type="CharField" name="alpha3">ESH</field>
+        <field type="PositiveSmallIntegerField" name="num_code">732</field>
+		<field type="CharField" name="phone">0</field>
+    </object>
+    <object pk="YE" model="localization.country">
+        <field type="CharField" name="name">Yemen</field>
+        <field type="CharField" name="alpha3">YEM</field>
+        <field type="PositiveSmallIntegerField" name="num_code">887</field>
+		<field type="CharField" name="phone">967</field>
+    </object>
+    <object pk="ZM" model="localization.country">
+        <field type="CharField" name="name">Zambia</field>
+        <field type="CharField" name="alpha3">ZMB</field>
+        <field type="PositiveSmallIntegerField" name="num_code">894</field>
+		<field type="CharField" name="phone">260</field>
+    </object>
+    <object pk="ZW" model="localization.country">
+        <field type="CharField" name="name">Zimbabwe</field>
+        <field type="CharField" name="alpha3">ZWE</field>
+        <field type="PositiveSmallIntegerField" name="num_code">716</field>
+		<field type="CharField" name="phone">263</field>
+    </object>
+</django-objects>
