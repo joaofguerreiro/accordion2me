@@ -1,0 +1,2669 @@
+[
+  {
+    "fields": {
+      "name": "Aveiro"
+    },
+    "model": "localization.district",
+    "pk": 1
+  },
+  {
+    "fields": {
+      "name": "Beja"
+    },
+    "model": "localization.district",
+    "pk": 2
+  },
+  {
+    "fields": {
+      "name": "Braga"
+    },
+    "model": "localization.district",
+    "pk": 3
+  },
+  {
+    "fields": {
+      "name": "Bragan\u00e7a"
+    },
+    "model": "localization.district",
+    "pk": 4
+  },
+  {
+    "fields": {
+      "name": "Castelo Branco"
+    },
+    "model": "localization.district",
+    "pk": 5
+  },
+  {
+    "fields": {
+      "name": "Coimbra"
+    },
+    "model": "localization.district",
+    "pk": 6
+  },
+  {
+    "fields": {
+      "name": "\u00c9vora"
+    },
+    "model": "localization.district",
+    "pk": 7
+  },
+  {
+    "fields": {
+      "name": "Faro"
+    },
+    "model": "localization.district",
+    "pk": 8
+  },
+  {
+    "fields": {
+      "name": "Guarda"
+    },
+    "model": "localization.district",
+    "pk": 9
+  },
+  {
+    "fields": {
+      "name": "Leiria"
+    },
+    "model": "localization.district",
+    "pk": 10
+  },
+  {
+    "fields": {
+      "name": "Lisboa"
+    },
+    "model": "localization.district",
+    "pk": 11
+  },
+  {
+    "fields": {
+      "name": "Portalegre"
+    },
+    "model": "localization.district",
+    "pk": 12
+  },
+  {
+    "fields": {
+      "name": "Porto"
+    },
+    "model": "localization.district",
+    "pk": 13
+  },
+  {
+    "fields": {
+      "name": "Santar\u00e9m"
+    },
+    "model": "localization.district",
+    "pk": 14
+  },
+  {
+    "fields": {
+      "name": "Set\u00fabal"
+    },
+    "model": "localization.district",
+    "pk": 15
+  },
+  {
+    "fields": {
+      "name": "Viana do Castelo"
+    },
+    "model": "localization.district",
+    "pk": 16
+  },
+  {
+    "fields": {
+      "name": "Vila Real"
+    },
+    "model": "localization.district",
+    "pk": 17
+  },
+  {
+    "fields": {
+      "name": "Viseu"
+    },
+    "model": "localization.district",
+    "pk": 18
+  },
+  {
+    "fields": {
+      "name": "Ilha da Madeira"
+    },
+    "model": "localization.district",
+    "pk": 31
+  },
+  {
+    "fields": {
+      "name": "Ilha de Porto Santo"
+    },
+    "model": "localization.district",
+    "pk": 32
+  },
+  {
+    "fields": {
+      "name": "Ilha de Santa Maria"
+    },
+    "model": "localization.district",
+    "pk": 41
+  },
+  {
+    "fields": {
+      "name": "Ilha de S\u00e3o Miguel"
+    },
+    "model": "localization.district",
+    "pk": 42
+  },
+  {
+    "fields": {
+      "name": "Ilha Terceira"
+    },
+    "model": "localization.district",
+    "pk": 43
+  },
+  {
+    "fields": {
+      "name": "Ilha da Graciosa"
+    },
+    "model": "localization.district",
+    "pk": 44
+  },
+  {
+    "fields": {
+      "name": "Ilha de S\u00e3o Jorge"
+    },
+    "model": "localization.district",
+    "pk": 45
+  },
+  {
+    "fields": {
+      "name": "Ilha do Pico"
+    },
+    "model": "localization.district",
+    "pk": 46
+  },
+  {
+    "fields": {
+      "name": "Ilha do Faial"
+    },
+    "model": "localization.district",
+    "pk": 47
+  },
+  {
+    "fields": {
+      "name": "Ilha das Flores"
+    },
+    "model": "localization.district",
+    "pk": 48
+  },
+  {
+    "fields": {
+      "name": "Ilha do Corvo"
+    },
+    "model": "localization.district",
+    "pk": 49
+  },
+  {
+    "fields": {
+      "name": "Mogadouro",
+      "district": 4
+    },
+    "model": "localization.county",
+    "pk": 1
+  },
+  {
+    "fields": {
+      "name": "Torre de Moncorvo",
+      "district": 4
+    },
+    "model": "localization.county",
+    "pk": 2
+  },
+  {
+    "fields": {
+      "name": "Vila Flor",
+      "district": 4
+    },
+    "model": "localization.county",
+    "pk": 3
+  },
+  {
+    "fields": {
+      "name": "Vimioso",
+      "district": 4
+    },
+    "model": "localization.county",
+    "pk": 4
+  },
+  {
+    "fields": {
+      "name": "Vinhais",
+      "district": 4
+    },
+    "model": "localization.county",
+    "pk": 5
+  },
+  {
+    "fields": {
+      "name": "Alf\u00e2ndega da F\u00e9",
+      "district": 4
+    },
+    "model": "localization.county",
+    "pk": 6
+  },
+  {
+    "fields": {
+      "name": "Bragan\u00e7a",
+      "district": 4
+    },
+    "model": "localization.county",
+    "pk": 7
+  },
+  {
+    "fields": {
+      "name": "Carrazeda de Ansi\u00e3es",
+      "district": 4
+    },
+    "model": "localization.county",
+    "pk": 8
+  },
+  {
+    "fields": {
+      "name": "Freixo de Espada \u00e0 Cinta",
+      "district": 4
+    },
+    "model": "localization.county",
+    "pk": 9
+  },
+  {
+    "fields": {
+      "name": "Macedo de Cavaleiros",
+      "district": 4
+    },
+    "model": "localization.county",
+    "pk": 10
+  },
+  {
+    "fields": {
+      "name": "Oleiros",
+      "district": 5
+    },
+    "model": "localization.county",
+    "pk": 11
+  },
+  {
+    "fields": {
+      "name": "Penamacor",
+      "district": 5
+    },
+    "model": "localization.county",
+    "pk": 12
+  },
+  {
+    "fields": {
+      "name": "Proen\u00e7a-a-Nova",
+      "district": 5
+    },
+    "model": "localization.county",
+    "pk": 13
+  },
+  {
+    "fields": {
+      "name": "Sert\u00e3",
+      "district": 5
+    },
+    "model": "localization.county",
+    "pk": 14
+  },
+  {
+    "fields": {
+      "name": "Vila de Rei",
+      "district": 5
+    },
+    "model": "localization.county",
+    "pk": 15
+  },
+  {
+    "fields": {
+      "name": "Vila Velha de R\u00f3d\u00e3o",
+      "district": 5
+    },
+    "model": "localization.county",
+    "pk": 16
+  },
+  {
+    "fields": {
+      "name": "Belmonte",
+      "district": 5
+    },
+    "model": "localization.county",
+    "pk": 17
+  },
+  {
+    "fields": {
+      "name": "Castelo Branco",
+      "district": 5
+    },
+    "model": "localization.county",
+    "pk": 18
+  },
+  {
+    "fields": {
+      "name": "Covilh\u00e3",
+      "district": 5
+    },
+    "model": "localization.county",
+    "pk": 19
+  },
+  {
+    "fields": {
+      "name": "Fund\u00e3o",
+      "district": 5
+    },
+    "model": "localization.county",
+    "pk": 20
+  },
+  {
+    "fields": {
+      "name": "Idanha-a-Nova",
+      "district": 5
+    },
+    "model": "localization.county",
+    "pk": 21
+  },
+  {
+    "fields": {
+      "name": "G\u00f3is",
+      "district": 6
+    },
+    "model": "localization.county",
+    "pk": 22
+  },
+  {
+    "fields": {
+      "name": "Lous\u00e3",
+      "district": 6
+    },
+    "model": "localization.county",
+    "pk": 23
+  },
+  {
+    "fields": {
+      "name": "Mira",
+      "district": 6
+    },
+    "model": "localization.county",
+    "pk": 24
+  },
+  {
+    "fields": {
+      "name": "Miranda do Corvo",
+      "district": 6
+    },
+    "model": "localization.county",
+    "pk": 25
+  },
+  {
+    "fields": {
+      "name": "Montemor-o-Velho",
+      "district": 6
+    },
+    "model": "localization.county",
+    "pk": 26
+  },
+  {
+    "fields": {
+      "name": "Oliveira do Hospital",
+      "district": 6
+    },
+    "model": "localization.county",
+    "pk": 27
+  },
+  {
+    "fields": {
+      "name": "Pampilhosa da Serra",
+      "district": 6
+    },
+    "model": "localization.county",
+    "pk": 28
+  },
+  {
+    "fields": {
+      "name": "Penacova",
+      "district": 6
+    },
+    "model": "localization.county",
+    "pk": 29
+  },
+  {
+    "fields": {
+      "name": "Penela",
+      "district": 6
+    },
+    "model": "localization.county",
+    "pk": 30
+  },
+  {
+    "fields": {
+      "name": "Soure",
+      "district": 6
+    },
+    "model": "localization.county",
+    "pk": 31
+  },
+  {
+    "fields": {
+      "name": "T\u00e1bua",
+      "district": 6
+    },
+    "model": "localization.county",
+    "pk": 32
+  },
+  {
+    "fields": {
+      "name": "Vila Nova de Poiares",
+      "district": 6
+    },
+    "model": "localization.county",
+    "pk": 33
+  },
+  {
+    "fields": {
+      "name": "Arganil",
+      "district": 6
+    },
+    "model": "localization.county",
+    "pk": 34
+  },
+  {
+    "fields": {
+      "name": "Cantanhede",
+      "district": 6
+    },
+    "model": "localization.county",
+    "pk": 35
+  },
+  {
+    "fields": {
+      "name": "Coimbra",
+      "district": 6
+    },
+    "model": "localization.county",
+    "pk": 36
+  },
+  {
+    "fields": {
+      "name": "Condeixa-a-Nova",
+      "district": 6
+    },
+    "model": "localization.county",
+    "pk": 37
+  },
+  {
+    "fields": {
+      "name": "Figueira da Foz",
+      "district": 6
+    },
+    "model": "localization.county",
+    "pk": 38
+  },
+  {
+    "fields": {
+      "name": "Montemor-o-Novo",
+      "district": 7
+    },
+    "model": "localization.county",
+    "pk": 39
+  },
+  {
+    "fields": {
+      "name": "Mora",
+      "district": 7
+    },
+    "model": "localization.county",
+    "pk": 40
+  },
+  {
+    "fields": {
+      "name": "Mour\u00e3o",
+      "district": 7
+    },
+    "model": "localization.county",
+    "pk": 41
+  },
+  {
+    "fields": {
+      "name": "Portel",
+      "district": 7
+    },
+    "model": "localization.county",
+    "pk": 42
+  },
+  {
+    "fields": {
+      "name": "Redondo",
+      "district": 7
+    },
+    "model": "localization.county",
+    "pk": 43
+  },
+  {
+    "fields": {
+      "name": "Reguengos de Monsaraz",
+      "district": 7
+    },
+    "model": "localization.county",
+    "pk": 44
+  },
+  {
+    "fields": {
+      "name": "Vendas Novas",
+      "district": 7
+    },
+    "model": "localization.county",
+    "pk": 45
+  },
+  {
+    "fields": {
+      "name": "Viana do Alentejo",
+      "district": 7
+    },
+    "model": "localization.county",
+    "pk": 46
+  },
+  {
+    "fields": {
+      "name": "Vila Vi\u00e7osa",
+      "district": 7
+    },
+    "model": "localization.county",
+    "pk": 47
+  },
+  {
+    "fields": {
+      "name": "Alandroal",
+      "district": 7
+    },
+    "model": "localization.county",
+    "pk": 48
+  },
+  {
+    "fields": {
+      "name": "Arraiolos",
+      "district": 7
+    },
+    "model": "localization.county",
+    "pk": 49
+  },
+  {
+    "fields": {
+      "name": "Borba",
+      "district": 7
+    },
+    "model": "localization.county",
+    "pk": 50
+  },
+  {
+    "fields": {
+      "name": "Estremoz",
+      "district": 7
+    },
+    "model": "localization.county",
+    "pk": 51
+  },
+  {
+    "fields": {
+      "name": "\u00c9vora",
+      "district": 7
+    },
+    "model": "localization.county",
+    "pk": 52
+  },
+  {
+    "fields": {
+      "name": "Lagoa (Algarve)",
+      "district": 8
+    },
+    "model": "localization.county",
+    "pk": 53
+  },
+  {
+    "fields": {
+      "name": "Lagos",
+      "district": 8
+    },
+    "model": "localization.county",
+    "pk": 54
+  },
+  {
+    "fields": {
+      "name": "Loul\u00e9",
+      "district": 8
+    },
+    "model": "localization.county",
+    "pk": 55
+  },
+  {
+    "fields": {
+      "name": "Monchique",
+      "district": 8
+    },
+    "model": "localization.county",
+    "pk": 56
+  },
+  {
+    "fields": {
+      "name": "Olh\u00e3o",
+      "district": 8
+    },
+    "model": "localization.county",
+    "pk": 57
+  },
+  {
+    "fields": {
+      "name": "Portim\u00e3o",
+      "district": 8
+    },
+    "model": "localization.county",
+    "pk": 58
+  },
+  {
+    "fields": {
+      "name": "S\u00e3o Br\u00e1s de Alportel",
+      "district": 8
+    },
+    "model": "localization.county",
+    "pk": 59
+  },
+  {
+    "fields": {
+      "name": "Silves",
+      "district": 8
+    },
+    "model": "localization.county",
+    "pk": 60
+  },
+  {
+    "fields": {
+      "name": "Tavira",
+      "district": 8
+    },
+    "model": "localization.county",
+    "pk": 61
+  },
+  {
+    "fields": {
+      "name": "Vila do Bispo",
+      "district": 8
+    },
+    "model": "localization.county",
+    "pk": 62
+  },
+  {
+    "fields": {
+      "name": "Vila Real de Santo Ant\u00f3nio",
+      "district": 8
+    },
+    "model": "localization.county",
+    "pk": 63
+  },
+  {
+    "fields": {
+      "name": "Albufeira",
+      "district": 8
+    },
+    "model": "localization.county",
+    "pk": 64
+  },
+  {
+    "fields": {
+      "name": "Alcoutim",
+      "district": 8
+    },
+    "model": "localization.county",
+    "pk": 65
+  },
+  {
+    "fields": {
+      "name": "Aljezur",
+      "district": 8
+    },
+    "model": "localization.county",
+    "pk": 66
+  },
+  {
+    "fields": {
+      "name": "Castro Marim",
+      "district": 8
+    },
+    "model": "localization.county",
+    "pk": 67
+  },
+  {
+    "fields": {
+      "name": "Faro",
+      "district": 8
+    },
+    "model": "localization.county",
+    "pk": 68
+  },
+  {
+    "fields": {
+      "name": "Gouveia",
+      "district": 9
+    },
+    "model": "localization.county",
+    "pk": 69
+  },
+  {
+    "fields": {
+      "name": "Guarda",
+      "district": 9
+    },
+    "model": "localization.county",
+    "pk": 70
+  },
+  {
+    "fields": {
+      "name": "Manteigas",
+      "district": 9
+    },
+    "model": "localization.county",
+    "pk": 71
+  },
+  {
+    "fields": {
+      "name": "Meda",
+      "district": 9
+    },
+    "model": "localization.county",
+    "pk": 72
+  },
+  {
+    "fields": {
+      "name": "Pinhel",
+      "district": 9
+    },
+    "model": "localization.county",
+    "pk": 73
+  },
+  {
+    "fields": {
+      "name": "Sabugal",
+      "district": 9
+    },
+    "model": "localization.county",
+    "pk": 74
+  },
+  {
+    "fields": {
+      "name": "Seia",
+      "district": 9
+    },
+    "model": "localization.county",
+    "pk": 75
+  },
+  {
+    "fields": {
+      "name": "Trancoso",
+      "district": 9
+    },
+    "model": "localization.county",
+    "pk": 76
+  },
+  {
+    "fields": {
+      "name": "Vila Nova de Foz C\u00f4a",
+      "district": 9
+    },
+    "model": "localization.county",
+    "pk": 77
+  },
+  {
+    "fields": {
+      "name": "Aguiar da Beira",
+      "district": 9
+    },
+    "model": "localization.county",
+    "pk": 78
+  },
+  {
+    "fields": {
+      "name": "Almeida",
+      "district": 9
+    },
+    "model": "localization.county",
+    "pk": 79
+  },
+  {
+    "fields": {
+      "name": "Celorico da Beira",
+      "district": 9
+    },
+    "model": "localization.county",
+    "pk": 80
+  },
+  {
+    "fields": {
+      "name": "Figueira de Castelo Rodrigo",
+      "district": 9
+    },
+    "model": "localization.county",
+    "pk": 81
+  },
+  {
+    "fields": {
+      "name": "Fornos de Algodres",
+      "district": 9
+    },
+    "model": "localization.county",
+    "pk": 82
+  },
+  {
+    "fields": {
+      "name": "Caldas da Rainha",
+      "district": 10
+    },
+    "model": "localization.county",
+    "pk": 83
+  },
+  {
+    "fields": {
+      "name": "Castanheira de P\u00eara",
+      "district": 10
+    },
+    "model": "localization.county",
+    "pk": 84
+  },
+  {
+    "fields": {
+      "name": "Figueir\u00f3 dos Vinhos",
+      "district": 10
+    },
+    "model": "localization.county",
+    "pk": 85
+  },
+  {
+    "fields": {
+      "name": "Leiria",
+      "district": 10
+    },
+    "model": "localization.county",
+    "pk": 86
+  },
+  {
+    "fields": {
+      "name": "Marinha Grande",
+      "district": 10
+    },
+    "model": "localization.county",
+    "pk": 87
+  },
+  {
+    "fields": {
+      "name": "Nazar\u00e9",
+      "district": 10
+    },
+    "model": "localization.county",
+    "pk": 88
+  },
+  {
+    "fields": {
+      "name": "\u00d3bidos",
+      "district": 10
+    },
+    "model": "localization.county",
+    "pk": 89
+  },
+  {
+    "fields": {
+      "name": "Pedr\u00f3g\u00e3o Grande",
+      "district": 10
+    },
+    "model": "localization.county",
+    "pk": 90
+  },
+  {
+    "fields": {
+      "name": "Peniche",
+      "district": 10
+    },
+    "model": "localization.county",
+    "pk": 91
+  },
+  {
+    "fields": {
+      "name": "Pombal",
+      "district": 10
+    },
+    "model": "localization.county",
+    "pk": 92
+  },
+  {
+    "fields": {
+      "name": "Porto de M\u00f3s",
+      "district": 10
+    },
+    "model": "localization.county",
+    "pk": 93
+  },
+  {
+    "fields": {
+      "name": "Alcoba\u00e7a",
+      "district": 10
+    },
+    "model": "localization.county",
+    "pk": 94
+  },
+  {
+    "fields": {
+      "name": "Alvai\u00e1zere",
+      "district": 10
+    },
+    "model": "localization.county",
+    "pk": 95
+  },
+  {
+    "fields": {
+      "name": "Ansi\u00e3o",
+      "district": 10
+    },
+    "model": "localization.county",
+    "pk": 96
+  },
+  {
+    "fields": {
+      "name": "Batalha",
+      "district": 10
+    },
+    "model": "localization.county",
+    "pk": 97
+  },
+  {
+    "fields": {
+      "name": "Bombarral",
+      "district": 10
+    },
+    "model": "localization.county",
+    "pk": 98
+  },
+  {
+    "fields": {
+      "name": "Lisboa",
+      "district": 11
+    },
+    "model": "localization.county",
+    "pk": 99
+  },
+  {
+    "fields": {
+      "name": "Loures",
+      "district": 11
+    },
+    "model": "localization.county",
+    "pk": 100
+  },
+  {
+    "fields": {
+      "name": "Lourinh\u00e3",
+      "district": 11
+    },
+    "model": "localization.county",
+    "pk": 101
+  },
+  {
+    "fields": {
+      "name": "Mafra",
+      "district": 11
+    },
+    "model": "localization.county",
+    "pk": 102
+  },
+  {
+    "fields": {
+      "name": "Oeiras",
+      "district": 11
+    },
+    "model": "localization.county",
+    "pk": 103
+  },
+  {
+    "fields": {
+      "name": "Sintra",
+      "district": 11
+    },
+    "model": "localization.county",
+    "pk": 104
+  },
+  {
+    "fields": {
+      "name": "Sobral de Monte Agra\u00e7o",
+      "district": 11
+    },
+    "model": "localization.county",
+    "pk": 105
+  },
+  {
+    "fields": {
+      "name": "Torres Vedras",
+      "district": 11
+    },
+    "model": "localization.county",
+    "pk": 106
+  },
+  {
+    "fields": {
+      "name": "Vila Franca de Xira",
+      "district": 11
+    },
+    "model": "localization.county",
+    "pk": 107
+  },
+  {
+    "fields": {
+      "name": "Amadora",
+      "district": 11
+    },
+    "model": "localization.county",
+    "pk": 108
+  },
+  {
+    "fields": {
+      "name": "Odivelas",
+      "district": 11
+    },
+    "model": "localization.county",
+    "pk": 109
+  },
+  {
+    "fields": {
+      "name": "Alenquer",
+      "district": 11
+    },
+    "model": "localization.county",
+    "pk": 110
+  },
+  {
+    "fields": {
+      "name": "Arruda dos Vinhos",
+      "district": 11
+    },
+    "model": "localization.county",
+    "pk": 111
+  },
+  {
+    "fields": {
+      "name": "Azambuja",
+      "district": 11
+    },
+    "model": "localization.county",
+    "pk": 112
+  },
+  {
+    "fields": {
+      "name": "Cadaval",
+      "district": 11
+    },
+    "model": "localization.county",
+    "pk": 113
+  },
+  {
+    "fields": {
+      "name": "Cascais",
+      "district": 11
+    },
+    "model": "localization.county",
+    "pk": 114
+  },
+  {
+    "fields": {
+      "name": "Crato",
+      "district": 12
+    },
+    "model": "localization.county",
+    "pk": 115
+  },
+  {
+    "fields": {
+      "name": "Elvas",
+      "district": 12
+    },
+    "model": "localization.county",
+    "pk": 116
+  },
+  {
+    "fields": {
+      "name": "Fronteira",
+      "district": 12
+    },
+    "model": "localization.county",
+    "pk": 117
+  },
+  {
+    "fields": {
+      "name": "Gavi\u00e3o",
+      "district": 12
+    },
+    "model": "localization.county",
+    "pk": 118
+  },
+  {
+    "fields": {
+      "name": "Marv\u00e3o",
+      "district": 12
+    },
+    "model": "localization.county",
+    "pk": 119
+  },
+  {
+    "fields": {
+      "name": "Monforte",
+      "district": 12
+    },
+    "model": "localization.county",
+    "pk": 120
+  },
+  {
+    "fields": {
+      "name": "Nisa",
+      "district": 12
+    },
+    "model": "localization.county",
+    "pk": 121
+  },
+  {
+    "fields": {
+      "name": "Ponte de Sor",
+      "district": 12
+    },
+    "model": "localization.county",
+    "pk": 122
+  },
+  {
+    "fields": {
+      "name": "Portalegre",
+      "district": 12
+    },
+    "model": "localization.county",
+    "pk": 123
+  },
+  {
+    "fields": {
+      "name": "Sousel",
+      "district": 12
+    },
+    "model": "localization.county",
+    "pk": 124
+  },
+  {
+    "fields": {
+      "name": "Alter do Ch\u00e3o",
+      "district": 12
+    },
+    "model": "localization.county",
+    "pk": 125
+  },
+  {
+    "fields": {
+      "name": "Arronches",
+      "district": 12
+    },
+    "model": "localization.county",
+    "pk": 126
+  },
+  {
+    "fields": {
+      "name": "Avis",
+      "district": 12
+    },
+    "model": "localization.county",
+    "pk": 127
+  },
+  {
+    "fields": {
+      "name": "Campo Maior",
+      "district": 12
+    },
+    "model": "localization.county",
+    "pk": 128
+  },
+  {
+    "fields": {
+      "name": "Castelo de Vide",
+      "district": 12
+    },
+    "model": "localization.county",
+    "pk": 129
+  },
+  {
+    "fields": {
+      "name": "Maia",
+      "district": 13
+    },
+    "model": "localization.county",
+    "pk": 130
+  },
+  {
+    "fields": {
+      "name": "Marco de Canaveses",
+      "district": 13
+    },
+    "model": "localization.county",
+    "pk": 131
+  },
+  {
+    "fields": {
+      "name": "Matosinhos",
+      "district": 13
+    },
+    "model": "localization.county",
+    "pk": 132
+  },
+  {
+    "fields": {
+      "name": "Pa\u00e7os de Ferreira",
+      "district": 13
+    },
+    "model": "localization.county",
+    "pk": 133
+  },
+  {
+    "fields": {
+      "name": "Paredes",
+      "district": 13
+    },
+    "model": "localization.county",
+    "pk": 134
+  },
+  {
+    "fields": {
+      "name": "Penafiel",
+      "district": 13
+    },
+    "model": "localization.county",
+    "pk": 135
+  },
+  {
+    "fields": {
+      "name": "Porto",
+      "district": 13
+    },
+    "model": "localization.county",
+    "pk": 136
+  },
+  {
+    "fields": {
+      "name": "P\u00f3voa de Varzim",
+      "district": 13
+    },
+    "model": "localization.county",
+    "pk": 137
+  },
+  {
+    "fields": {
+      "name": "Santo Tirso",
+      "district": 13
+    },
+    "model": "localization.county",
+    "pk": 138
+  },
+  {
+    "fields": {
+      "name": "Valongo",
+      "district": 13
+    },
+    "model": "localization.county",
+    "pk": 139
+  },
+  {
+    "fields": {
+      "name": "Vila do Conde",
+      "district": 13
+    },
+    "model": "localization.county",
+    "pk": 140
+  },
+  {
+    "fields": {
+      "name": "Vila Nova de Gaia",
+      "district": 13
+    },
+    "model": "localization.county",
+    "pk": 141
+  },
+  {
+    "fields": {
+      "name": "Trofa",
+      "district": 13
+    },
+    "model": "localization.county",
+    "pk": 142
+  },
+  {
+    "fields": {
+      "name": "Amarante",
+      "district": 13
+    },
+    "model": "localization.county",
+    "pk": 143
+  },
+  {
+    "fields": {
+      "name": "Bai\u00e3o",
+      "district": 13
+    },
+    "model": "localization.county",
+    "pk": 144
+  },
+  {
+    "fields": {
+      "name": "Felgueiras",
+      "district": 13
+    },
+    "model": "localization.county",
+    "pk": 145
+  },
+  {
+    "fields": {
+      "name": "Gondomar",
+      "district": 13
+    },
+    "model": "localization.county",
+    "pk": 146
+  },
+  {
+    "fields": {
+      "name": "Lousada",
+      "district": 13
+    },
+    "model": "localization.county",
+    "pk": 147
+  },
+  {
+    "fields": {
+      "name": "Cartaxo",
+      "district": 14
+    },
+    "model": "localization.county",
+    "pk": 148
+  },
+  {
+    "fields": {
+      "name": "Chamusca",
+      "district": 14
+    },
+    "model": "localization.county",
+    "pk": 149
+  },
+  {
+    "fields": {
+      "name": "Const\u00e2ncia",
+      "district": 14
+    },
+    "model": "localization.county",
+    "pk": 150
+  },
+  {
+    "fields": {
+      "name": "Coruche",
+      "district": 14
+    },
+    "model": "localization.county",
+    "pk": 151
+  },
+  {
+    "fields": {
+      "name": "Entroncamento",
+      "district": 14
+    },
+    "model": "localization.county",
+    "pk": 152
+  },
+  {
+    "fields": {
+      "name": "Ferreira do Z\u00eazere",
+      "district": 14
+    },
+    "model": "localization.county",
+    "pk": 153
+  },
+  {
+    "fields": {
+      "name": "Goleg\u00e3",
+      "district": 14
+    },
+    "model": "localization.county",
+    "pk": 154
+  },
+  {
+    "fields": {
+      "name": "Ma\u00e7\u00e3o",
+      "district": 14
+    },
+    "model": "localization.county",
+    "pk": 155
+  },
+  {
+    "fields": {
+      "name": "Rio Maior",
+      "district": 14
+    },
+    "model": "localization.county",
+    "pk": 156
+  },
+  {
+    "fields": {
+      "name": "Salvaterra de Magos",
+      "district": 14
+    },
+    "model": "localization.county",
+    "pk": 157
+  },
+  {
+    "fields": {
+      "name": "Santar\u00e9m",
+      "district": 14
+    },
+    "model": "localization.county",
+    "pk": 158
+  },
+  {
+    "fields": {
+      "name": "Sardoal",
+      "district": 14
+    },
+    "model": "localization.county",
+    "pk": 159
+  },
+  {
+    "fields": {
+      "name": "Tomar",
+      "district": 14
+    },
+    "model": "localization.county",
+    "pk": 160
+  },
+  {
+    "fields": {
+      "name": "Torres Novas",
+      "district": 14
+    },
+    "model": "localization.county",
+    "pk": 161
+  },
+  {
+    "fields": {
+      "name": "Vila Nova da Barquinha",
+      "district": 14
+    },
+    "model": "localization.county",
+    "pk": 162
+  },
+  {
+    "fields": {
+      "name": "Our\u00e9m",
+      "district": 14
+    },
+    "model": "localization.county",
+    "pk": 163
+  },
+  {
+    "fields": {
+      "name": "Abrantes",
+      "district": 14
+    },
+    "model": "localization.county",
+    "pk": 164
+  },
+  {
+    "fields": {
+      "name": "Alcanena",
+      "district": 14
+    },
+    "model": "localization.county",
+    "pk": 165
+  },
+  {
+    "fields": {
+      "name": "Almeirim",
+      "district": 14
+    },
+    "model": "localization.county",
+    "pk": 166
+  },
+  {
+    "fields": {
+      "name": "Alpiar\u00e7a",
+      "district": 14
+    },
+    "model": "localization.county",
+    "pk": 167
+  },
+  {
+    "fields": {
+      "name": "Benavente",
+      "district": 14
+    },
+    "model": "localization.county",
+    "pk": 168
+  },
+  {
+    "fields": {
+      "name": "Moita",
+      "district": 15
+    },
+    "model": "localization.county",
+    "pk": 169
+  },
+  {
+    "fields": {
+      "name": "Montijo",
+      "district": 15
+    },
+    "model": "localization.county",
+    "pk": 170
+  },
+  {
+    "fields": {
+      "name": "Palmela",
+      "district": 15
+    },
+    "model": "localization.county",
+    "pk": 171
+  },
+  {
+    "fields": {
+      "name": "Santiago do Cac\u00e9m",
+      "district": 15
+    },
+    "model": "localization.county",
+    "pk": 172
+  },
+  {
+    "fields": {
+      "name": "Seixal",
+      "district": 15
+    },
+    "model": "localization.county",
+    "pk": 173
+  },
+  {
+    "fields": {
+      "name": "Sesimbra",
+      "district": 15
+    },
+    "model": "localization.county",
+    "pk": 174
+  },
+  {
+    "fields": {
+      "name": "Set\u00fabal",
+      "district": 15
+    },
+    "model": "localization.county",
+    "pk": 175
+  },
+  {
+    "fields": {
+      "name": "Sines",
+      "district": 15
+    },
+    "model": "localization.county",
+    "pk": 176
+  },
+  {
+    "fields": {
+      "name": "Alc\u00e1cer do Sal",
+      "district": 15
+    },
+    "model": "localization.county",
+    "pk": 177
+  },
+  {
+    "fields": {
+      "name": "Alcochete",
+      "district": 15
+    },
+    "model": "localization.county",
+    "pk": 178
+  },
+  {
+    "fields": {
+      "name": "Almada",
+      "district": 15
+    },
+    "model": "localization.county",
+    "pk": 179
+  },
+  {
+    "fields": {
+      "name": "Barreiro",
+      "district": 15
+    },
+    "model": "localization.county",
+    "pk": 180
+  },
+  {
+    "fields": {
+      "name": "Gr\u00e2ndola",
+      "district": 15
+    },
+    "model": "localization.county",
+    "pk": 181
+  },
+  {
+    "fields": {
+      "name": "Ponte da Barca",
+      "district": 16
+    },
+    "model": "localization.county",
+    "pk": 182
+  },
+  {
+    "fields": {
+      "name": "Ponte de Lima",
+      "district": 16
+    },
+    "model": "localization.county",
+    "pk": 183
+  },
+  {
+    "fields": {
+      "name": "Valen\u00e7a",
+      "district": 16
+    },
+    "model": "localization.county",
+    "pk": 184
+  },
+  {
+    "fields": {
+      "name": "Viana do Castelo",
+      "district": 16
+    },
+    "model": "localization.county",
+    "pk": 185
+  },
+  {
+    "fields": {
+      "name": "Vila Nova de Cerveira",
+      "district": 16
+    },
+    "model": "localization.county",
+    "pk": 186
+  },
+  {
+    "fields": {
+      "name": "Arcos de Valdevez",
+      "district": 16
+    },
+    "model": "localization.county",
+    "pk": 187
+  },
+  {
+    "fields": {
+      "name": "Caminha",
+      "district": 16
+    },
+    "model": "localization.county",
+    "pk": 188
+  },
+  {
+    "fields": {
+      "name": "Melga\u00e7o",
+      "district": 16
+    },
+    "model": "localization.county",
+    "pk": 189
+  },
+  {
+    "fields": {
+      "name": "Mon\u00e7\u00e3o",
+      "district": 16
+    },
+    "model": "localization.county",
+    "pk": 190
+  },
+  {
+    "fields": {
+      "name": "Paredes de Coura",
+      "district": 16
+    },
+    "model": "localization.county",
+    "pk": 191
+  },
+  {
+    "fields": {
+      "name": "Mondim de Basto",
+      "district": 17
+    },
+    "model": "localization.county",
+    "pk": 192
+  },
+  {
+    "fields": {
+      "name": "Montalegre",
+      "district": 17
+    },
+    "model": "localization.county",
+    "pk": 193
+  },
+  {
+    "fields": {
+      "name": "Mur\u00e7a",
+      "district": 17
+    },
+    "model": "localization.county",
+    "pk": 194
+  },
+  {
+    "fields": {
+      "name": "Peso da R\u00e9gua",
+      "district": 17
+    },
+    "model": "localization.county",
+    "pk": 195
+  },
+  {
+    "fields": {
+      "name": "Ribeira de Pena",
+      "district": 17
+    },
+    "model": "localization.county",
+    "pk": 196
+  },
+  {
+    "fields": {
+      "name": "Sabrosa",
+      "district": 17
+    },
+    "model": "localization.county",
+    "pk": 197
+  },
+  {
+    "fields": {
+      "name": "Santa Marta de Penagui\u00e3o",
+      "district": 17
+    },
+    "model": "localization.county",
+    "pk": 198
+  },
+  {
+    "fields": {
+      "name": "Valpa\u00e7os",
+      "district": 17
+    },
+    "model": "localization.county",
+    "pk": 199
+  },
+  {
+    "fields": {
+      "name": "Vila Pouca de Aguiar",
+      "district": 17
+    },
+    "model": "localization.county",
+    "pk": 200
+  },
+  {
+    "fields": {
+      "name": "Vila Real",
+      "district": 17
+    },
+    "model": "localization.county",
+    "pk": 201
+  },
+  {
+    "fields": {
+      "name": "Alij\u00f3",
+      "district": 17
+    },
+    "model": "localization.county",
+    "pk": 202
+  },
+  {
+    "fields": {
+      "name": "Boticas",
+      "district": 17
+    },
+    "model": "localization.county",
+    "pk": 203
+  },
+  {
+    "fields": {
+      "name": "Chaves",
+      "district": 17
+    },
+    "model": "localization.county",
+    "pk": 204
+  },
+  {
+    "fields": {
+      "name": "Mes\u00e3o Frio",
+      "district": 17
+    },
+    "model": "localization.county",
+    "pk": 205
+  },
+  {
+    "fields": {
+      "name": "Lamego",
+      "district": 18
+    },
+    "model": "localization.county",
+    "pk": 206
+  },
+  {
+    "fields": {
+      "name": "Mangualde",
+      "district": 18
+    },
+    "model": "localization.county",
+    "pk": 207
+  },
+  {
+    "fields": {
+      "name": "Moimenta da Beira",
+      "district": 18
+    },
+    "model": "localization.county",
+    "pk": 208
+  },
+  {
+    "fields": {
+      "name": "Mort\u00e1gua",
+      "district": 18
+    },
+    "model": "localization.county",
+    "pk": 209
+  },
+  {
+    "fields": {
+      "name": "Nelas",
+      "district": 18
+    },
+    "model": "localization.county",
+    "pk": 210
+  },
+  {
+    "fields": {
+      "name": "Oliveira de Frades",
+      "district": 18
+    },
+    "model": "localization.county",
+    "pk": 211
+  },
+  {
+    "fields": {
+      "name": "Penalva do Castelo",
+      "district": 18
+    },
+    "model": "localization.county",
+    "pk": 212
+  },
+  {
+    "fields": {
+      "name": "Penedono",
+      "district": 18
+    },
+    "model": "localization.county",
+    "pk": 213
+  },
+  {
+    "fields": {
+      "name": "Resende",
+      "district": 18
+    },
+    "model": "localization.county",
+    "pk": 214
+  },
+  {
+    "fields": {
+      "name": "Santa Comba D\u00e3o",
+      "district": 18
+    },
+    "model": "localization.county",
+    "pk": 215
+  },
+  {
+    "fields": {
+      "name": "S\u00e3o Jo\u00e3o da Pesqueira",
+      "district": 18
+    },
+    "model": "localization.county",
+    "pk": 216
+  },
+  {
+    "fields": {
+      "name": "S\u00e3o Pedro do Sul",
+      "district": 18
+    },
+    "model": "localization.county",
+    "pk": 217
+  },
+  {
+    "fields": {
+      "name": "S\u00e1t\u00e3o",
+      "district": 18
+    },
+    "model": "localization.county",
+    "pk": 218
+  },
+  {
+    "fields": {
+      "name": "Sernancelhe",
+      "district": 18
+    },
+    "model": "localization.county",
+    "pk": 219
+  },
+  {
+    "fields": {
+      "name": "Tabua\u00e7o",
+      "district": 18
+    },
+    "model": "localization.county",
+    "pk": 220
+  },
+  {
+    "fields": {
+      "name": "Tarouca",
+      "district": 18
+    },
+    "model": "localization.county",
+    "pk": 221
+  },
+  {
+    "fields": {
+      "name": "Tondela",
+      "district": 18
+    },
+    "model": "localization.county",
+    "pk": 222
+  },
+  {
+    "fields": {
+      "name": "Vila Nova de Paiva",
+      "district": 18
+    },
+    "model": "localization.county",
+    "pk": 223
+  },
+  {
+    "fields": {
+      "name": "Viseu",
+      "district": 18
+    },
+    "model": "localization.county",
+    "pk": 224
+  },
+  {
+    "fields": {
+      "name": "Vouzela",
+      "district": 18
+    },
+    "model": "localization.county",
+    "pk": 225
+  },
+  {
+    "fields": {
+      "name": "Armamar",
+      "district": 18
+    },
+    "model": "localization.county",
+    "pk": 226
+  },
+  {
+    "fields": {
+      "name": "Carregal do Sal",
+      "district": 18
+    },
+    "model": "localization.county",
+    "pk": 227
+  },
+  {
+    "fields": {
+      "name": "Castro Daire",
+      "district": 18
+    },
+    "model": "localization.county",
+    "pk": 228
+  },
+  {
+    "fields": {
+      "name": "Cinf\u00e3es",
+      "district": 18
+    },
+    "model": "localization.county",
+    "pk": 229
+  },
+  {
+    "fields": {
+      "name": "Ponta do Sol",
+      "district": 31
+    },
+    "model": "localization.county",
+    "pk": 230
+  },
+  {
+    "fields": {
+      "name": "Porto Moniz",
+      "district": 31
+    },
+    "model": "localization.county",
+    "pk": 231
+  },
+  {
+    "fields": {
+      "name": "Ribeira Brava",
+      "district": 31
+    },
+    "model": "localization.county",
+    "pk": 232
+  },
+  {
+    "fields": {
+      "name": "Santa Cruz",
+      "district": 31
+    },
+    "model": "localization.county",
+    "pk": 233
+  },
+  {
+    "fields": {
+      "name": "Santana",
+      "district": 31
+    },
+    "model": "localization.county",
+    "pk": 234
+  },
+  {
+    "fields": {
+      "name": "S\u00e3o Vicente",
+      "district": 31
+    },
+    "model": "localization.county",
+    "pk": 235
+  },
+  {
+    "fields": {
+      "name": "Calheta (Madeira)",
+      "district": 31
+    },
+    "model": "localization.county",
+    "pk": 236
+  },
+  {
+    "fields": {
+      "name": "C\u00e2mara de Lobos",
+      "district": 31
+    },
+    "model": "localization.county",
+    "pk": 237
+  },
+  {
+    "fields": {
+      "name": "Funchal",
+      "district": 31
+    },
+    "model": "localization.county",
+    "pk": 238
+  },
+  {
+    "fields": {
+      "name": "Machico",
+      "district": 31
+    },
+    "model": "localization.county",
+    "pk": 239
+  },
+  {
+    "fields": {
+      "name": "Porto Santo",
+      "district": 32
+    },
+    "model": "localization.county",
+    "pk": 240
+  },
+  {
+    "fields": {
+      "name": "Vila do Porto",
+      "district": 41
+    },
+    "model": "localization.county",
+    "pk": 241
+  },
+  {
+    "fields": {
+      "name": "Ribeira Grande",
+      "district": 42
+    },
+    "model": "localization.county",
+    "pk": 242
+  },
+  {
+    "fields": {
+      "name": "Vila Franca do Campo",
+      "district": 42
+    },
+    "model": "localization.county",
+    "pk": 243
+  },
+  {
+    "fields": {
+      "name": "Lagoa (S\u00e3o Miguel)",
+      "district": 42
+    },
+    "model": "localization.county",
+    "pk": 244
+  },
+  {
+    "fields": {
+      "name": "Nordeste",
+      "district": 42
+    },
+    "model": "localization.county",
+    "pk": 245
+  },
+  {
+    "fields": {
+      "name": "Ponta Delgada",
+      "district": 42
+    },
+    "model": "localization.county",
+    "pk": 246
+  },
+  {
+    "fields": {
+      "name": "Povoa\u00e7\u00e3o",
+      "district": 42
+    },
+    "model": "localization.county",
+    "pk": 247
+  },
+  {
+    "fields": {
+      "name": "Angra do Hero\u00edsmo",
+      "district": 43
+    },
+    "model": "localization.county",
+    "pk": 248
+  },
+  {
+    "fields": {
+      "name": "Praia da Vit\u00f3ria",
+      "district": 43
+    },
+    "model": "localization.county",
+    "pk": 249
+  },
+  {
+    "fields": {
+      "name": "Santa Cruz da Graciosa",
+      "district": 44
+    },
+    "model": "localization.county",
+    "pk": 250
+  },
+  {
+    "fields": {
+      "name": "Calheta (S\u00e3o Jorge)",
+      "district": 45
+    },
+    "model": "localization.county",
+    "pk": 251
+  },
+  {
+    "fields": {
+      "name": "Velas",
+      "district": 45
+    },
+    "model": "localization.county",
+    "pk": 252
+  },
+  {
+    "fields": {
+      "name": "Lajes do Pico",
+      "district": 46
+    },
+    "model": "localization.county",
+    "pk": 253
+  },
+  {
+    "fields": {
+      "name": "Madalena",
+      "district": 46
+    },
+    "model": "localization.county",
+    "pk": 254
+  },
+  {
+    "fields": {
+      "name": "S\u00e3o Roque do Pico",
+      "district": 46
+    },
+    "model": "localization.county",
+    "pk": 255
+  },
+  {
+    "fields": {
+      "name": "Horta",
+      "district": 47
+    },
+    "model": "localization.county",
+    "pk": 256
+  },
+  {
+    "fields": {
+      "name": "Lajes das Flores",
+      "district": 48
+    },
+    "model": "localization.county",
+    "pk": 257
+  },
+  {
+    "fields": {
+      "name": "Santa Cruz das Flores",
+      "district": 48
+    },
+    "model": "localization.county",
+    "pk": 258
+  },
+  {
+    "fields": {
+      "name": "Corvo",
+      "district": 49
+    },
+    "model": "localization.county",
+    "pk": 259
+  },
+  {
+    "fields": {
+      "name": "Castelo de Paiva",
+      "district": 1
+    },
+    "model": "localization.county",
+    "pk": 260
+  },
+  {
+    "fields": {
+      "name": "Espinho",
+      "district": 1
+    },
+    "model": "localization.county",
+    "pk": 261
+  },
+  {
+    "fields": {
+      "name": "Estarreja",
+      "district": 1
+    },
+    "model": "localization.county",
+    "pk": 262
+  },
+  {
+    "fields": {
+      "name": "Santa Maria da Feira",
+      "district": 1
+    },
+    "model": "localization.county",
+    "pk": 263
+  },
+  {
+    "fields": {
+      "name": "\u00cdlhavo",
+      "district": 1
+    },
+    "model": "localization.county",
+    "pk": 264
+  },
+  {
+    "fields": {
+      "name": "Mealhada",
+      "district": 1
+    },
+    "model": "localization.county",
+    "pk": 265
+  },
+  {
+    "fields": {
+      "name": "Murtosa",
+      "district": 1
+    },
+    "model": "localization.county",
+    "pk": 266
+  },
+  {
+    "fields": {
+      "name": "Oliveira de Azem\u00e9is",
+      "district": 1
+    },
+    "model": "localization.county",
+    "pk": 267
+  },
+  {
+    "fields": {
+      "name": "Oliveira do Bairro",
+      "district": 1
+    },
+    "model": "localization.county",
+    "pk": 268
+  },
+  {
+    "fields": {
+      "name": "Ovar",
+      "district": 1
+    },
+    "model": "localization.county",
+    "pk": 269
+  },
+  {
+    "fields": {
+      "name": "S\u00e3o Jo\u00e3o da Madeira",
+      "district": 1
+    },
+    "model": "localization.county",
+    "pk": 270
+  },
+  {
+    "fields": {
+      "name": "Sever do Vouga",
+      "district": 1
+    },
+    "model": "localization.county",
+    "pk": 271
+  },
+  {
+    "fields": {
+      "name": "Vagos",
+      "district": 1
+    },
+    "model": "localization.county",
+    "pk": 272
+  },
+  {
+    "fields": {
+      "name": "Vale de Cambra",
+      "district": 1
+    },
+    "model": "localization.county",
+    "pk": 273
+  },
+  {
+    "fields": {
+      "name": "\u00c1gueda",
+      "district": 1
+    },
+    "model": "localization.county",
+    "pk": 274
+  },
+  {
+    "fields": {
+      "name": "Albergaria-a-Velha",
+      "district": 1
+    },
+    "model": "localization.county",
+    "pk": 275
+  },
+  {
+    "fields": {
+      "name": "Anadia",
+      "district": 1
+    },
+    "model": "localization.county",
+    "pk": 276
+  },
+  {
+    "fields": {
+      "name": "Arouca",
+      "district": 1
+    },
+    "model": "localization.county",
+    "pk": 277
+  },
+  {
+    "fields": {
+      "name": "Aveiro",
+      "district": 1
+    },
+    "model": "localization.county",
+    "pk": 278
+  },
+  {
+    "fields": {
+      "name": "Castro Verde",
+      "district": 2
+    },
+    "model": "localization.county",
+    "pk": 279
+  },
+  {
+    "fields": {
+      "name": "Cuba",
+      "district": 2
+    },
+    "model": "localization.county",
+    "pk": 280
+  },
+  {
+    "fields": {
+      "name": "Ferreira do Alentejo",
+      "district": 2
+    },
+    "model": "localization.county",
+    "pk": 281
+  },
+  {
+    "fields": {
+      "name": "M\u00e9rtola",
+      "district": 2
+    },
+    "model": "localization.county",
+    "pk": 282
+  },
+  {
+    "fields": {
+      "name": "Moura",
+      "district": 2
+    },
+    "model": "localization.county",
+    "pk": 283
+  },
+  {
+    "fields": {
+      "name": "Odemira",
+      "district": 2
+    },
+    "model": "localization.county",
+    "pk": 284
+  },
+  {
+    "fields": {
+      "name": "Ourique",
+      "district": 2
+    },
+    "model": "localization.county",
+    "pk": 285
+  },
+  {
+    "fields": {
+      "name": "Serpa",
+      "district": 2
+    },
+    "model": "localization.county",
+    "pk": 286
+  },
+  {
+    "fields": {
+      "name": "Vidigueira",
+      "district": 2
+    },
+    "model": "localization.county",
+    "pk": 287
+  },
+  {
+    "fields": {
+      "name": "Aljustrel",
+      "district": 2
+    },
+    "model": "localization.county",
+    "pk": 288
+  },
+  {
+    "fields": {
+      "name": "Almod\u00f4var",
+      "district": 2
+    },
+    "model": "localization.county",
+    "pk": 289
+  },
+  {
+    "fields": {
+      "name": "Alvito",
+      "district": 2
+    },
+    "model": "localization.county",
+    "pk": 290
+  },
+  {
+    "fields": {
+      "name": "Barrancos",
+      "district": 2
+    },
+    "model": "localization.county",
+    "pk": 291
+  },
+  {
+    "fields": {
+      "name": "Beja",
+      "district": 2
+    },
+    "model": "localization.county",
+    "pk": 292
+  },
+  {
+    "fields": {
+      "name": "Esposende",
+      "district": 3
+    },
+    "model": "localization.county",
+    "pk": 293
+  },
+  {
+    "fields": {
+      "name": "Fafe",
+      "district": 3
+    },
+    "model": "localization.county",
+    "pk": 294
+  },
+  {
+    "fields": {
+      "name": "Guimar\u00e3es",
+      "district": 3
+    },
+    "model": "localization.county",
+    "pk": 295
+  },
+  {
+    "fields": {
+      "name": "P\u00f3voa de Lanhoso",
+      "district": 3
+    },
+    "model": "localization.county",
+    "pk": 296
+  },
+  {
+    "fields": {
+      "name": "Terras de Bouro",
+      "district": 3
+    },
+    "model": "localization.county",
+    "pk": 297
+  },
+  {
+    "fields": {
+      "name": "Vieira do Minho",
+      "district": 3
+    },
+    "model": "localization.county",
+    "pk": 298
+  },
+  {
+    "fields": {
+      "name": "Vila Nova de Famalic\u00e3o",
+      "district": 3
+    },
+    "model": "localization.county",
+    "pk": 299
+  },
+  {
+    "fields": {
+      "name": "Vila Verde",
+      "district": 3
+    },
+    "model": "localization.county",
+    "pk": 300
+  },
+  {
+    "fields": {
+      "name": "Vizela",
+      "district": 3
+    },
+    "model": "localization.county",
+    "pk": 301
+  },
+  {
+    "fields": {
+      "name": "Amares",
+      "district": 3
+    },
+    "model": "localization.county",
+    "pk": 302
+  },
+  {
+    "fields": {
+      "name": "Barcelos",
+      "district": 3
+    },
+    "model": "localization.county",
+    "pk": 303
+  },
+  {
+    "fields": {
+      "name": "Braga",
+      "district": 3
+    },
+    "model": "localization.county",
+    "pk": 304
+  },
+  {
+    "fields": {
+      "name": "Cabeceiras de Basto",
+      "district": 3
+    },
+    "model": "localization.county",
+    "pk": 305
+  },
+  {
+    "fields": {
+      "name": "Celorico de Basto",
+      "district": 3
+    },
+    "model": "localization.county",
+    "pk": 306
+  },
+  {
+    "fields": {
+      "name": "Miranda do Douro",
+      "district": 4
+    },
+    "model": "localization.county",
+    "pk": 307
+  },
+  {
+    "fields": {
+      "name": "Mirandela",
+      "district": 4
+    },
+    "model": "localization.county",
+    "pk": 308
+  }
+]
