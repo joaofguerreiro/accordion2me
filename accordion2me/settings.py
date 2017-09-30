@@ -56,6 +56,7 @@ INSTALLED_APPS = [
 
     # PROJECT SPECIFIC
     'localization',
+    'posts',
 ]
 
 # noinspection PyPackageRequirements
