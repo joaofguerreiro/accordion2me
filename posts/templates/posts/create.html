@@ -1,0 +1,28 @@
+<form method="post" action="{% url 'posts:post_create' %}">
+
+  {{ form.errors }}
+
+  {% csrf_token %}
+
+  {{ form.author }}
+
+  {% if form.title.errors %}
+    {{ form.title.errors }}
+  {% endif %}
+  {{ form.title.label }}
+  {{ form.title }}
+
+  {% if form.content.errors %}
+    {{ form.content.errors }}
+  {% endif %}
+  {{ form.content.label }}
+  {{ form.content }}
+
+  {% if form.tags.errors %}
+    {{ form.tags.errors }}
+  {% endif %}
+  {{ form.tags.label }}
+  {{ form.tags }}
+
+  <input type="submit">
+</form>

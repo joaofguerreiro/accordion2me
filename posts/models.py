@@ -69,9 +69,21 @@ class Post(models.Model):
     title = models.CharField(verbose_name=_('Name'), max_length=100)
     content = models.URLField(verbose_name=_('Content'), max_length=100)
     created_on = models.DateTimeField(verbose_name=_('Date Created'), auto_now_add=True)
+    removed = models.BooleanField(verbose_name=_('Removed'), help_text=_(
+        'If a post goes against the policy then it should be set as removed, rather than deleting it.'), default=False)
+
+    def get_absolute_url(self):
+        from django.urls import reverse
+        return reverse('posts:post_detail', kwargs={'pk': self.pk})
+
+    class Meta:
+        db_table = 'posts_post'
+        verbose_name = _('Post')
+        verbose_name_plural = _('Posts')
+        ordering = ('-created_on', 'title')
 
     def __str__(self):
-        return "{} by {}".format(self.title[:30], self.author)
+        return "{}".format(self.title[:30])
 
 
 @python_2_unicode_compatible

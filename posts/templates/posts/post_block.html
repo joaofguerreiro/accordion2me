@@ -1,0 +1,6 @@
+<b>{{ post.title }}</b>
+by <a href="{{ post.get_absolute_url }}">{{ post.author }}</a>
+<p>{{ post.content }}</p>
+<iframe src="{{ post.content }}"
+   width="560" height="315" frameborder="0" allowfullscreen></iframe>
+<hr/>
